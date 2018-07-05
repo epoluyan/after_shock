@@ -402,7 +402,7 @@ function nextSlide() {
 
 <!-- Квесты -->
 
-<section class="quest" id="quest">
+<section class="quest" id="quest" style="margin-top: 0px;">
 
     <h2>Что такое выездные квесты <br> и какие бывают квесты?</h2>
 
@@ -1155,7 +1155,7 @@ function nextSlide() {
 
 <!-- Фото -->
 
-<section id="photo" style="padding-top: 75px; margin-top: -75px;">
+<section id="photo" style="padding-top: 55px; margin-top: -75px;">
 
     <div class="container-fluid">
 
