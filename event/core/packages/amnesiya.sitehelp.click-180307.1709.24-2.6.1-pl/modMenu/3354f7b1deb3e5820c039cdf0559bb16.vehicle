@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '63606dede3e20f4f6a08f882f5914cae',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '3354f7b1deb3e5820c039cdf0559bb16',
+  'native_key' => 'refreshuris',
+  'object' => '{"text":"refreshuris","parent":"refresh_site","action":"","description":"refreshuris_desc","icon":"","menuindex":0,"params":"","handler":"MODx.refreshURIs(); return false;","permissions":"empty_cache","namespace":"core"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f9bcc43e2d0e9e93f619ea1e16a89bb7',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'd2d3fafccf8eb9e18b27eebf23a90c8e',
+  'native_key' => 11,
+  'object' => '{"id":11,"source":1,"property_preprocess":0,"name":"advantagesRow","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<div class=\\"advantages-item\\">\\n\\t<img alt=\\"\\" src=\\"[[+image]]\\">\\n\\t<p>[[+title]]<\\/p>\\n\\t[[+text:isnot=``:then=`\\n\\t    <a class=\\"inline cboxElement btn btn-danger btn-lg\\" href=\\"#question[[+idx]]\\">\\u041f\\u043e\\u0434\\u0440\\u043e\\u0431\\u043d\\u0435\\u0435<\\/a>\\n    \\t<div class=\\"question\\">\\n    \\t\\t<div id=\\"question[[+idx]]\\" class=\\"popap-content\\">\\n    \\t    \\t[[+text]]\\n    \\t\\t<\\/div>\\n    \\t<\\/div>\\n\\t`]]\\n<\\/div>","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<div class=\\"advantages-item\\">\\n\\t<img alt=\\"\\" src=\\"[[+image]]\\">\\n\\t<p>[[+title]]<\\/p>\\n\\t[[+text:isnot=``:then=`\\n\\t    <a class=\\"inline cboxElement btn btn-danger btn-lg\\" href=\\"#question[[+idx]]\\">\\u041f\\u043e\\u0434\\u0440\\u043e\\u0431\\u043d\\u0435\\u0435<\\/a>\\n    \\t<div class=\\"question\\">\\n    \\t\\t<div id=\\"question[[+idx]]\\" class=\\"popap-content\\">\\n    \\t    \\t[[+text]]\\n    \\t\\t<\\/div>\\n    \\t<\\/div>\\n\\t`]]\\n<\\/div>"}',
+);

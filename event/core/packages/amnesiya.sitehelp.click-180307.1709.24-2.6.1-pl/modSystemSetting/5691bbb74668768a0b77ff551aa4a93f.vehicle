@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '0c8cc724bf12b2bbba223067f98bbedb',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '5691bbb74668768a0b77ff551aa4a93f',
+  'native_key' => 'tiny.custom_buttons1',
+  'object' => '{"key":"tiny.custom_buttons1","value":"undo,redo,selectall,separator,pastetext,pasteword,separator,search,replace,separator,nonbreaking,hr,charmap,separator,image,modxlink,unlink,anchor,media,separator,cleanup,removeformat,separator,fullscreen,print,code,help","xtype":"textfield","namespace":"tinymce","area":"custom-buttons","editedon":null}',
+);

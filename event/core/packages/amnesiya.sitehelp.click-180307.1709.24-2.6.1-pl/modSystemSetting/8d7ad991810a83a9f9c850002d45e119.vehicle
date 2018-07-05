@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f5736924483a33e6e870ded74a665c9d',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '8d7ad991810a83a9f9c850002d45e119',
+  'native_key' => 'phpthumbon.images_dir',
+  'object' => '{"key":"phpthumbon.images_dir","value":"images","xtype":"textfield","namespace":"phpthumbon","area":"paths","editedon":null}',
+);

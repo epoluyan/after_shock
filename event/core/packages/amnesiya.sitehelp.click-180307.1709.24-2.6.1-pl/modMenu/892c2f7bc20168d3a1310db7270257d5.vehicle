@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '15c8ca60971bc22d9d24e4dfd1a36c72',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '892c2f7bc20168d3a1310db7270257d5',
+  'native_key' => 'namespaces',
+  'object' => '{"text":"namespaces","parent":"admin","action":"workspaces\\/namespace","description":"namespaces_desc","icon":"","menuindex":8,"params":"","handler":"","permissions":"namespaces","namespace":"core"}',
+);

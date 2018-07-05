@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '813714d0610f17968c3f98006cac6e94',
+  'package' => 'modx',
+  'class' => 'modDocument',
+  'signature' => 'f4d5c538e3634621e2be880a6b07f6f0',
+  'native_key' => 1,
+  'object' => '{"id":1,"type":"document","contentType":"text\\/html","pagetitle":"Amnesia - \\u043e\\u0440\\u0433\\u0430\\u043d\\u0438\\u0437\\u0430\\u0446\\u0438\\u044f \\u043c\\u0435\\u0440\\u043e\\u043f\\u0440\\u0438\\u044f\\u0442\\u0438\\u0439 \\u0438 \\u043f\\u0440\\u0430\\u0437\\u0434\\u043d\\u0438\\u043a\\u043e\\u0432","longtitle":"","description":"","alias":"index","link_attributes":"","published":1,"pub_date":0,"unpub_date":0,"parent":0,"isfolder":0,"introtext":"","content":"","richtext":0,"template":1,"menuindex":0,"searchable":1,"cacheable":1,"createdby":1,"createdon":1520278020,"editedby":1,"editedon":1520416641,"deleted":0,"deletedon":0,"deletedby":0,"publishedon":0,"publishedby":0,"menutitle":"","donthit":0,"privateweb":0,"privatemgr":0,"content_dispo":0,"hidemenu":0,"class_key":"modDocument","context_key":"web","content_type":1,"uri":"index.html","uri_override":0,"hide_children_in_tree":0,"show_in_tree":1,"properties":null}',
+);

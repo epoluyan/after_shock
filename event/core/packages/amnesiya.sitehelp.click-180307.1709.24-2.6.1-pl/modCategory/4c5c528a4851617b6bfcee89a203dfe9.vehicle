@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '8af9f5313848db9d3a6408612754e7c6',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => '4c5c528a4851617b6bfcee89a203dfe9',
+  'native_key' => 2,
+  'object' => '{"id":2,"parent":0,"category":"MIGX","rank":0}',
+);

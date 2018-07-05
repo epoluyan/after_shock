@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '8c74a65a3ef4c6ef680ff02010f95c6b',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'b1d6d1fc297fc7856b6b05c9bb2d770c',
+  'native_key' => 49,
+  'object' => '{"id":49,"template":1,"name":"error_log_view","description":"perm.error_log_view_desc","value":1}',
+);

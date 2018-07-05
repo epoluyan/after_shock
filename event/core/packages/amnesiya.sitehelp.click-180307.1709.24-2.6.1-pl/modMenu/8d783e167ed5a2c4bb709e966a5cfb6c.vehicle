@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '80ce77bcf2362fd85a4435d75ac74965',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '8d783e167ed5a2c4bb709e966a5cfb6c',
+  'native_key' => 'preview',
+  'object' => '{"text":"preview","parent":"site","action":"","description":"preview_desc","icon":"","menuindex":4,"params":"","handler":"MODx.preview(); return false;","permissions":"","namespace":"core"}',
+);

@@ -1,0 +1,1183 @@
+/** All */
+/* line 2, main.sass */
+input, button, textarea, a {
+  transition: 0.2s all;
+}
+
+/* line 5, main.sass */
+::-webkit-input-placeholder {
+  color: #707070;
+}
+
+/* line 8, main.sass */
+::-moz-placeholder {
+  color: #707070;
+}
+
+/* line 11, main.sass */
+input::-webkit-input-placeholder, textarea::-webkit-textarea-placeholder {
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
+
+/* line 15, main.sass */
+input::-moz-placeholder, textarea::-moz-placeholder {
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
+
+/* line 19, main.sass */
+input:-moz-placeholder, textarea:-moz-placeholder {
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
+
+/* line 23, main.sass */
+input:-ms-input-placeholder, textarea:-ms-textarea-placeholder {
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
+
+/* line 27, main.sass */
+input:focus::-webkit-input-placeholder, textarea:focus::-webkit-input-placeholder {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+/* line 31, main.sass */
+input:focus::-moz-placeholder, textarea:focus::-moz-placeholder {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+/* line 35, main.sass */
+input:focus:-moz-placeholder, textarea:focus:-moz-placeholder {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+/* line 39, main.sass */
+input:focus:-ms-input-placeholder, textarea:focus:-ms-textarea-placeholder {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+/* line 43, main.sass */
+.img-responsive {
+  display: inline-block;
+}
+
+/* line 46, main.sass */
+.question, .addon {
+  display: none;
+}
+
+/* line 49, main.sass */
+#question, #addon {
+  padding: 10px 40px;
+}
+
+/* line 52, main.sass */
+#question {
+  font-size: 30px;
+}
+
+/* line 55, main.sass */
+p {
+  line-height: 1.3;
+}
+
+/* line 58, main.sass */
+.form-error {
+  border: 1px solid red !important;
+}
+
+/* line 61, main.sass */
+.head-phone {
+  text-align: center;
+  font-size: 40px;
+  color: #fff;
+}
+
+/* line 66, main.sass */
+.success {
+  display: none;
+}
+
+/* line 69, main.sass */
+.fsize-30 {
+  font-size: 30px;
+}
+
+/* line 72, main.sass */
+#success {
+  text-align: center;
+}
+
+/** Main Form */
+/* line 77, main.sass */
+.main-form {
+  margin-top: 100px;
+  text-align: center;
+}
+/* line 81, main.sass */
+.main-form h2 {
+  font-family: "Ubuntu Condensed", sans-serif;
+  text-transform: uppercase;
+  font-size: 40px;
+}
+/* line 86, main.sass */
+.main-form h3 {
+  font-family: "Ubuntu Condensed", sans-serif;
+  text-transform: uppercase;
+  margin-top: 10px;
+}
+/* line 91, main.sass */
+.main-form .helper {
+  margin-top: 40px;
+}
+/* line 94, main.sass */
+.main-form input, .main-form button {
+  display: inline-block;
+}
+/* line 97, main.sass */
+.main-form input {
+  width: 250px;
+}
+/* line 100, main.sass */
+.main-form button {
+  vertical-align: top;
+  padding: 8px 55px;
+}
+
+/* line 104, main.sass */
+.form-header, .button-header {
+  margin-top: 15px !important;
+}
+/* line 107, main.sass */
+.form-header input, .form-header button, .button-header input, .button-header button {
+  border: 2px solid #fff;
+}
+/* line 110, main.sass */
+.form-header button, .button-header button {
+  background: transparent;
+  height: 42px;
+}
+/* line 114, main.sass */
+.form-header .btn-lg, .form-header .btn-group-lg > .btn, .button-header .btn-lg, .button-header .btn-group-lg > .btn {
+  padding: 8px 16px;
+}
+
+/* line 118, main.sass */
+.button-header input {
+  width: 200px;
+}
+/* line 121, main.sass */
+.button-header input, .button-header button {
+  display: inline-block;
+  vertical-align: top;
+}
+
+/* line 125, main.sass */
+#readmore {
+  padding-bottom: 50px;
+}
+
+/* line 129, main.sass */
+.head-button a {
+  display: inline-block;
+  background: transparent;
+  border: 2px solid #fff;
+  width: 200px;
+}
+
+/** Welcome */
+/* line 137, main.sass */
+.header-social {
+  width: 130px;
+  margin: auto;
+}
+/* line 141, main.sass */
+.header-social .social-item {
+  height: 40px;
+  width: 40px;
+  cursor: pointer;
+  display: inline-block;
+  border-radius: 50%;
+  border: 2px solid #fff;
+}
+/* line 149, main.sass */
+.header-social .vk {
+  background: url(../img/social.png) no-repeat;
+  background-position: -35px 0;
+  background-size: 110px;
+}
+/* line 154, main.sass */
+.header-social .fl {
+  background: url(../img/social.png) no-repeat;
+  background-position: -72px 0;
+  background-size: 110px;
+}
+/* line 159, main.sass */
+.header-social .in {
+  background: url(../img/social.png) no-repeat;
+  background-position: 0 0;
+  background-size: 110px;
+}
+
+/** Advantages */
+/* line 166, main.sass */
+.advantages {
+  background: #071f3b url(../img/section-bg.jpg) no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding: 100px 0 50px 0;
+}
+/* line 172, main.sass */
+.advantages h2 {
+  font-family: "Ubuntu Condensed", sans-serif;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  font-size: 40px;
+}
+/* line 178, main.sass */
+.advantages .advantages-item {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 40px;
+  padding: 10px 5px;
+}
+/* line 184, main.sass */
+.advantages .advantages-item img {
+  width: 200px;
+}
+/* line 190, main.sass */
+.advantages p {
+  font-size: 22px;
+  margin-top: 12px;
+  color: #fff;
+}
+
+/** Quest */
+/* line 197, main.sass */
+.quest {
+  margin-top: 100px;
+  background: #071f3b url(../img/section-bg.jpg) no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding: 50px 0 30px 0;
+}
+/* line 204, main.sass */
+.quest h2 {
+  font-family: "Ubuntu Condensed", sans-serif;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  font-size: 40px;
+  color: #fff;
+}
+/* line 211, main.sass */
+.quest .quest-item {
+  margin: 30px 0;
+}
+/* line 213, main.sass */
+.quest .quest-item img {
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  transition: all 1s ease;
+}
+/* line 219, main.sass */
+.quest .quest-item img:hover {
+  -webkit-filter: brightness(0.5);
+}
+/* line 222, main.sass */
+.quest p {
+  font-size: 20px;
+  margin-top: 12px;
+  color: #fff;
+}
+
+/** akciya */
+/* line 228, main.sass */
+.akciya {
+  background: #071f3b url(../img/section-bg.jpg) no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding: 50px 0 30px 0;
+}
+/* line 233, main.sass */
+.akciya h2 {
+  font-family: "Ubuntu Condensed", sans-serif;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  font-size: 40px;
+  color: #fff;
+}
+/* line 239, main.sass */
+.akciya .quest-item2 {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 50px;
+  padding: 10px 5px;
+}
+/* line 244, main.sass */
+.akciya .quest-item2 img {
+  width: 200px;
+}
+/* line 246, main.sass */
+.akciya p {
+  font-size: 20px;
+  margin-top: 30px;
+  color: #fff;
+}
+/* line 250, main.sass */
+.akciya .btn {
+  margin-top: 30px;
+}
+
+/** Geo */
+/* line 255, main.sass */
+.geo {
+  text-align: center;
+  padding: 50px 0 30px 0;
+}
+/* line 259, main.sass */
+.geo h2 {
+  font-family: "Ubuntu Condensed", sans-serif;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  font-size: 40px;
+}
+/* line 265, main.sass */
+.geo .geo-item {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 20px;
+  padding: 10px 5px;
+  min-width: 300px;
+}
+/* line 272, main.sass */
+.geo .geo-item img {
+  width: 200px;
+}
+/* line 275, main.sass */
+.geo .other-item {
+  background: #f9f9f9;
+}
+/* line 278, main.sass */
+.geo p {
+  font-size: 20px;
+  margin-top: 12px;
+}
+
+/** Scen */
+/* line 284, main.sass */
+.scen {
+  text-align: center;
+  margin-top: 100px;
+  background: #071f3b url(../img/section-bg.jpg) no-repeat;
+  background-size: cover;
+  padding: 50px 0;
+}
+/* line 291, main.sass */
+.scen h2 {
+  font-family: "Ubuntu Condensed", sans-serif;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  font-size: 40px;
+  color: #fff;
+}
+/* line 298, main.sass */
+.scen .scen-item {
+  text-align: center;
+  display: inline-block;
+  margin: 0 40px 20px 40px;
+}
+/* line 303, main.sass */
+.scen .scen-item img {
+  width: 200px;
+}
+/* line 336, main.sass */
+.scen p {
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-top: 12px;
+  color: #fff;
+}
+/* line 342, main.sass */
+.scen button {
+  width: 320px;
+}
+
+/** Emo */
+/* line 347, main.sass */
+.emotion {
+  text-align: center;
+  padding: 50px 0 30px 0;
+}
+/* line 351, main.sass */
+.emotion h2 {
+  font-family: "Ubuntu Condensed", sans-serif;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  font-size: 40px;
+}
+/* line 358, main.sass */
+.emotion .emotion-item img {
+  width: 200px;
+}
+/* line 361, main.sass */
+.emotion p {
+  font-size: 20px;
+  margin-top: 12px;
+}
+
+/** Cols */
+/* line 367, main.sass */
+.cols {
+  text-align: center;
+  padding: 50px 0 30px 0;
+  background: #f1f1f1;
+}
+/* line 372, main.sass */
+.cols h2 {
+  font-family: "Ubuntu Condensed", sans-serif;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  font-size: 40px;
+}
+/* line 378, main.sass */
+.cols .cols-item-wrapper {
+  display: inline-block;
+  margin: 30px 80px 0 80px;
+}
+/* line 382, main.sass */
+.cols .cols-item {
+  width: 200px;
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 50%;
+  display: inline-block;
+  background-size: 320px;
+}
+/* line 391, main.sass */
+.cols .about-one {
+  background-image: url(../img/about-one.jpg);
+}
+/* line 394, main.sass */
+.cols .about-three {
+  background-image: url(../img/about-300.jpg);
+}
+/* line 397, main.sass */
+.cols p {
+  font-size: 22px;
+  margin-top: 10px;
+}
+
+/** About */
+/* line 402, main.sass */
+.about {
+  text-align: center;
+  padding: 50px 0 30px 0;
+  background: #071f3b url(../img/section-bg.jpg) no-repeat;
+  background-size: cover;
+}
+/* line 408, main.sass */
+.about h2 {
+  font-family: "Ubuntu Condensed", sans-serif;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  font-size: 40px;
+  color: #fff;
+}
+/* line 415, main.sass */
+.about p {
+  font-size: 22px;
+  margin-top: 12px;
+  color: #fff;
+}
+/* line 420, main.sass */
+.about img {
+  width: 200px;
+}
+
+/** About-tags */
+/* line 425, main.sass */
+.about-tags {
+  text-align: center;
+  padding: 50px 0 30px 0;
+  margin-top: 100px;
+}
+/* line 430, main.sass */
+.about-tags h2 {
+  font-family: "Ubuntu Condensed", sans-serif;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  font-size: 40px;
+}
+/* line 436, main.sass */
+.about-tags .about-tag-item {
+  display: inline-block;
+  width: 200px;
+  min-height: 200px;
+  background: #ccc;
+  border-radius: 50%;
+}
+/* line 443, main.sass */
+.about-tags .event1 {
+  background: url(../img/event1.jpg) no-repeat;
+  background-size: cover;
+}
+/* line 447, main.sass */
+.about-tags .event2 {
+  background: url(../img/event2.jpg) no-repeat;
+  background-size: cover;
+}
+/* line 451, main.sass */
+.about-tags .event3 {
+  background: url(../img/event3.jpg) no-repeat;
+  background-size: cover;
+}
+/* line 455, main.sass */
+.about-tags p {
+  font-size: 22px;
+  margin-top: 10px;
+}
+/* line 459, main.sass */
+.about-tags .small {
+  font-size: 18px;
+}
+
+/** Instagram */
+/* line 464, main.sass */
+.instagram {
+  text-align: center;
+  padding: 50px 0 30px 0;
+  margin-top: 100px;
+  background: #254f7b;
+  color: #fff;
+}
+/* line 471, main.sass */
+.instagram h2 {
+  font-family: "Ubuntu Condensed", sans-serif;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  font-size: 40px;
+}
+/* line 477, main.sass */
+.instagram .img-responsive {
+  max-width: 400px;
+}
+/* line 480, main.sass */
+.instagram .image {
+  text-align: center;
+}
+/* line 483, main.sass */
+.instagram .slog {
+  text-align: left;
+  padding-top: 30px;
+}
+/* line 487, main.sass */
+.instagram a {
+  color: #fff;
+  text-decoration: none;
+}
+/* line 491, main.sass */
+.instagram a:hover {
+  color: #298cd8;
+}
+
+/* line 493, main.sass */
+.about-us {
+  text-align: center;
+  padding: 50px 0 30px 0;
+  color: #254f7b;
+  background: #ffffff;
+}
+/* line 498, main.sass */
+.about-us h2 {
+  font-family: "Ubuntu Condensed", sans-serif;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  font-size: 40px;
+}
+/* line 504, main.sass */
+.about-us .img-responsive {
+  max-width: 400px;
+}
+/* line 507, main.sass */
+.about-us .image {
+  text-align: center;
+}
+/* line 510, main.sass */
+.about-us .slog {
+  text-align: left;
+  padding-top: 30px;
+}
+/* line 514, main.sass */
+.about-us a {
+  color: #254f7b;
+  text-decoration: none;
+}
+/* line 518, main.sass */
+.about-us a:hover {
+  color: #298cd8;
+}
+
+/** FAQ */
+/* line 522, main.sass */
+.faq {
+  text-align: center;
+  padding: 100px 0 90px 0;
+  margin-top: 100px;
+  background: #f1f1f1;
+}
+/* line 528, main.sass */
+.faq h2 {
+  font-family: "Ubuntu Condensed", sans-serif;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  font-size: 45px;
+  margin-top: 0;
+}
+/* line 535, main.sass */
+.faq p {
+  font-size: 23px;
+}
+/* line 538, main.sass */
+.faq .img-responsive {
+  max-width: 400px;
+  display: inline-block;
+}
+/* line 542, main.sass */
+.faq .image {
+  text-align: center;
+}
+/* line 545, main.sass */
+.faq .slog {
+  text-align: center;
+}
+
+/** Bonus */
+/* line 550, main.sass */
+.bonus {
+  text-align: center;
+  padding: 50px 0 30px 0;
+  background: #071f3b url(../img/section-bg.jpg) no-repeat;
+  background-size: cover;
+  padding-top: 50px;
+}
+/* line 557, main.sass */
+.bonus h2 {
+  font-family: "Ubuntu Condensed", sans-serif;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  font-size: 40px;
+  color: #fff;
+}
+/* line 564, main.sass */
+.bonus .bonus-wrapper {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0px 30px 15px 30px;
+}
+/* line 569, main.sass */
+.bonus .bonus-item {
+  height: 200px;
+  width: 200px;
+  background: #ccc;
+  margin: 0 50px;
+  padding: 10px 5px;
+  background-size: cover;
+  border-radius: 50%;
+  oveflow: hidden;
+}
+/* line 579, main.sass */
+.bonus .video {
+  background: url(../img/scen1.jpg) no-repeat;
+}
+/* line 582, main.sass */
+.bonus .screenplay {
+  background: url(../img/scen2.jpg) no-repeat;
+}
+/* line 585, main.sass */
+.bonus .earth {
+  background: url(../img/scen3.jpg) no-repeat;
+}
+/* line 588, main.sass */
+.bonus .evening {
+  background: url(../img/scen4.jpg) no-repeat;
+}
+/* line 591, main.sass */
+.bonus .area {
+  background: url(../img/scen5.jpg) no-repeat;
+}
+/* line 594, main.sass */
+.bonus .bar {
+  background: url(../img/scen6.jpg) no-repeat;
+}
+/* line 597, main.sass */
+.bonus p {
+  font-size: 22px;
+  color: #fff;
+}
+/* line 601, main.sass */
+.bonus .small {
+  font-size: 16px;
+}
+
+/* line 604, main.sass */
+.about-work {
+  color: #fff;
+  background: url(../img/bg-work-block.png) repeat;
+  min-height: 600px;
+  text-align: center;
+}
+/* line 609, main.sass */
+.about-work h2 {
+  background: url(../img/h2-bg.png) no-repeat;
+  background-size: contain;
+  font-size: 40px;
+  height: 180px;
+  text-align: center;
+  line-height: 115px;
+}
+/* line 616, main.sass */
+.about-work img {
+  margin: auto;
+}
+/* line 618, main.sass */
+.about-work p {
+  line-height: 34px;
+  font-size: 22px;
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+/* line 624, main.sass */
+.about-work .col-xs-12 {
+  padding-left: 1px;
+  padding-right: 1px;
+}
+/* line 627, main.sass */
+.about-work span {
+  position: absolute;
+  top: 0px;
+  font-size: 70px;
+  margin-left: 55px;
+}
+/* line 632, main.sass */
+.about-work .two_space_sp {
+  margin-left: 25px;
+}
+/* line 634, main.sass */
+.about-work .three_space_sp {
+  margin-left: 100px;
+}
+
+/* line 637, main.sass */
+.aqua-quest {
+  padding-top: 50px;
+  margin-bottom: 50px;
+  min-height: 900px;
+  width: 100%;
+}
+/* line 643, main.sass */
+.aqua-quest h2 {
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 50px;
+}
+/* line 648, main.sass */
+.aqua-quest .aqua_logo {
+  background: url("../img/logo-aqua.png") no-repeat center;
+  background-size: contain;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  width: 300px;
+  height: 300px;
+}
+/* line 657, main.sass */
+.aqua-quest .about_aqua {
+  padding-top: 50px;
+  background: url(../img/aqua-bg.jpg) no-repeat center;
+  background-size: cover;
+  width: 100%;
+  min-height: 850px;
+  color: #fff;
+}
+/* line 665, main.sass */
+.aqua-quest .about_aqua p, .aqua-quest .about_aqua li {
+  list-style: none;
+  font-size: 20px;
+}
+/* line 669, main.sass */
+.aqua-quest .aqua_ico_row {
+  padding-top: 30px;
+}
+/* line 671, main.sass */
+.aqua-quest .aqua_ico_row p {
+  font-size: 18px;
+}
+/* line 674, main.sass */
+.aqua-quest .ico_form {
+  font-size: 16px;
+}
+/* line 677, main.sass */
+.aqua-quest .about_quest_ico {
+  text-align: left;
+  padding-top: 25px;
+}
+/* line 681, main.sass */
+.aqua-quest .reserved_aqua {
+  min-height: 300px;
+  width: 100%;
+}
+/* line 685, main.sass */
+.aqua-quest .reserved_aqua h2 {
+  text-align: center;
+  font-size: 36px;
+}
+/* line 689, main.sass */
+.aqua-quest .reserved_aqua .aqua_event {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+/* line 693, main.sass */
+.aqua-quest .reserved_aqua .aqua_event .aqua_date {
+  font-size: 30px;
+  text-align: left;
+}
+/* line 697, main.sass */
+.aqua-quest .reserved_aqua .aqua_event .aqua_price_and_time {
+  border: solid #325177 3px;
+  border-radius: 4px;
+  background-size: contain;
+  text-align: center;
+  font-size: 24px;
+  color: #325177;
+  -webkit-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+}
+/* line 708, main.sass */
+.aqua-quest .reserved_aqua .aqua_event .aqua_price_and_time_hover:hover {
+  color: #fff;
+  background-color: #0c70ab;
+  border: solid #0c70ab 3px;
+}
+/* line 713, main.sass */
+.aqua-quest .reserved_aqua .aqua_event .aqua_price {
+  font-size: 16px;
+}
+
+/* line 716, main.sass */
+.form_active {
+  display: block !important;
+}
+/* line 718, main.sass */
+.form_active:hover {
+  color: #325177;
+}
+
+/* line 721, main.sass */
+.preform_qu {
+  cursor: pointer;
+}
+
+/* line 724, main.sass */
+.close_form {
+  position: absolute;
+  width: 30px;
+  right: 10%;
+  top: 5%;
+  height: 30px;
+  background: #dd3d36;
+  color: #fff;
+  font-size: 14px;
+  line-height: 27px;
+  border-radius: 15px;
+}
+/* line 735, main.sass */
+.close_form:hover {
+  background: red;
+  cursor: pointer;
+}
+
+/* line 739, main.sass */
+.aqua_res_form {
+  display: none;
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: solid 0.5px #cccccc;
+  min-height: 400px;
+  padding-bottom: 20px;
+  background: #fff;
+  top: 20%;
+}
+/* line 749, main.sass */
+.aqua_res_form input {
+  width: 250px;
+  margin-top: 20px;
+  border-radius: 5px;
+  border: solid 2px #1F4661;
+  font-size: 20px;
+}
+/* line 756, main.sass */
+.aqua_res_form select {
+  background: none;
+  position: relative;
+  z-index: 100;
+  width: 284px;
+  border: none;
+}
+/* line 763, main.sass */
+.aqua_res_form .select-button {
+  background: url("../img/select.png") center center no-repeat;
+  height: 38px;
+  width: 34px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 50;
+}
+/* line 773, main.sass */
+.aqua_res_form .peop_c {
+  margin-top: 30px;
+  display: block;
+  float: left;
+}
+/* line 778, main.sass */
+.aqua_res_form .select-outer {
+  margin-left: -6px;
+  line-height: 38px;
+  height: 45px;
+  margin-top: 20px;
+  border-radius: 5px;
+  border: solid 2px #1F4661;
+  width: 250px;
+  overflow: hidden;
+  display: inline-block;
+  position: relative;
+}
+/* line 790, main.sass */
+.aqua_res_form input[type='text'], .aqua_res_form input[type='email'] {
+  padding: 5px;
+}
+/* line 793, main.sass */
+.aqua_res_form label {
+  margin-top: 30px;
+  display: block;
+  float: left;
+  width: 120px;
+  text-align: left;
+  font-size: 18px;
+  font-weight: normal;
+}
+/* line 802, main.sass */
+.aqua_res_form label span {
+  color: red;
+  font-weight: bold;
+}
+/* line 806, main.sass */
+.aqua_res_form input[type='submit'] {
+  margin-left: 120px;
+  height: 40px;
+  background: #fff;
+}
+/* line 810, main.sass */
+.aqua_res_form input[type='submit']:hover {
+  color: #fff;
+  border-color: #1F4661;
+  background: #1F4661;
+}
+
+/* line 816, main.sass */
+.modalDialog {
+  position: fixed;
+  font-family: Arial, Helvetica, sans-serif;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.8);
+  z-index: 99999;
+  -webkit-transition: opacity 400ms ease-in;
+  -moz-transition: opacity 400ms ease-in;
+  transition: opacity 400ms ease-in;
+  display: none;
+  pointer-events: none;
+}
+
+/* line 831, main.sass */
+.modalDialog:target {
+  display: block;
+  pointer-events: auto;
+}
+
+/* line 835, main.sass */
+.modalDialog > div {
+  width: 400px;
+  position: relative;
+  margin: 10% auto;
+  padding: 5px 20px 13px 20px;
+  border-radius: 10px;
+  background: #fff;
+  background: -moz-linear-gradient(#fff, #999);
+  background: -webkit-linear-gradient(#fff, #999);
+  background: -o-linear-gradient(#fff, #999);
+}
+
+/** Media */
+@media (max-width: 1200px) {
+  /* line 851, main.sass */
+  .about-work img {
+    width: 150px;
+  }
+  /* line 853, main.sass */
+  .about-work span {
+    margin-left: 20px;
+  }
+  /* line 855, main.sass */
+  .about-work .two_space_sp {
+    margin-left: 20px;
+  }
+  /* line 857, main.sass */
+  .about-work .three_space_sp {
+    margin-left: 10px;
+  }
+
+  /* line 860, main.sass */
+  .main-form button {
+    padding: 8px 35px;
+  }
+  /* line 863, main.sass */
+  .main-form input {
+    width: 210px;
+  }
+}
+@media (max-width: 1000px) {
+  /* line 868, main.sass */
+  .about-work h2 {
+    line-height: 70px;
+  }
+  /* line 870, main.sass */
+  .about-work p {
+    font-size: 28px;
+    letter-spacing: 0px;
+  }
+  /* line 873, main.sass */
+  .about-work p span {
+    display: none;
+  }
+
+  /* line 876, main.sass */
+  .main-form input {
+    width: 150px;
+  }
+}
+@media (max-width: 800px) {
+  /* line 881, main.sass */
+  .about-work span {
+    display: none;
+  }
+  /* line 883, main.sass */
+  .about-work p {
+    font-size: 38px;
+  }
+}
+@media (max-width: 740px) {
+  /* line 888, main.sass */
+  .about-work img {
+    width: 250px;
+  }
+
+  /* line 891, main.sass */
+  .main-form input, .main-form button {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}
+@media (max-width: 700px) {
+  /* line 896, main.sass */
+  .heading__sub {
+    font-size: 18px;
+  }
+
+  /* line 899, main.sass */
+  .about-work h2 {
+    height: 140px;
+    background: none;
+  }
+
+  /* line 902, main.sass */
+  .head-phone {
+    font-size: 25px;
+  }
+}
+@media (max-width: 500px) {
+  /* line 906, main.sass */
+  .heading__sub {
+    display: none;
+  }
+
+  /* line 909, main.sass */
+  .head-button {
+    display: none;
+  }
+
+  /* line 912, main.sass */
+  .welcome_classic {
+    padding-top: 80px;
+  }
+}
+/* line 915, main.sass */
+.acz1 {
+  float: left;
+  margin: auto;
+  width: 30%;
+}
+
+/* line 920, main.sass */
+#aczopis {
+  width: 100%;
+}
+
+/* line 923, main.sass */
+.acz2 {
+  margin: auto;
+  margin-top: 290px;
+}
+
+/* line 927, main.sass */
+#clients {
+  margin: 0 0 50px 0;
+}
+/* line 929, main.sass */
+#clients h2 {
+  font-family: "Ubuntu Condensed", sans-serif;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  font-size: 40px;
+  text-align: center;
+}
+/* line 935, main.sass */
+#clients .client {
+  margin: 15px 15px;
+  height: 105px;
+  text-align: center;
+}
+/* line 939, main.sass */
+#clients .client img {
+  margin: auto;
+  width: 190px;
+  height: 105px;
+}
+
+/* line 945, main.sass */
+#photo .item img {
+  width: 100%;
+}

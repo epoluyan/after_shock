@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f1e320aaab4a3e0156930733d783a96d',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'b5f58fcb5732c3d0687f5d30f97cb84c',
+  'native_key' => 130,
+  'object' => '{"id":130,"template":1,"name":"save_propertyset","description":"perm.save_propertyset_desc","value":1}',
+);

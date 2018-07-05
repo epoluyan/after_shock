@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '6b60f8d82a361f1b319aacfcbff07b80',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '243681572de288d440efd4582048a47c',
+  'native_key' => 196,
+  'object' => '{"id":196,"template":4,"name":"copy","description":"perm.copy_desc","value":1}',
+);

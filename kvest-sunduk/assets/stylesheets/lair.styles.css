@@ -1,0 +1,30 @@
+/* line 23, ../sass/lair.styles.scss */
+.flex_container {
+  width: 100%;
+  display: flex;
+}
+
+/* line 28, ../sass/lair.styles.scss */
+.flex_wrap {
+  margin: auto;
+}
+
+/* line 32, ../sass/lair.styles.scss */
+.flex_row {
+  flex-direction: column;
+}
+
+/* line 36, ../sass/lair.styles.scss */
+.flex_full {
+  height: 100%;
+}
+
+/* line 40, ../sass/lair.styles.scss */
+main.content {
+  flex: 1 0 auto;
+}
+
+/* line 44, ../sass/lair.styles.scss */
+footer.footer {
+  flex: 0 0 auto;
+}

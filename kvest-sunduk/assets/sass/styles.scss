@@ -1,0 +1,465 @@
+// Import Bootstrap Compass integration
+@import "bootstrap-compass";
+
+// Import custom Bootstrap variables
+@import "bootstrap-variables";
+
+// Import Bootstrap for Sass
+@import "bootstrap";
+
+// Import lair.lib
+@import "lair.styles";
+
+@font-face {
+  font-family: 'Century Gothic';
+  src: url('../fonts/gothic.woff') format('woff'), url('../fonts/gothic.ttf')  format('truetype'); /* Только если нужна поддержка старых Android, иначе закомментировать */
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family: "Ubuntu Condensed", sans-serif;
+}
+
+html, body {
+  min-height: 100%;
+  /*overflow-x: hidden; */
+}
+
+.logo {
+	margin-top: 60px;
+  display: block;
+  background: transparent url("../img/logo.png") no-repeat center;
+  background-size: contain;
+  width: 450px;
+  height: 80px; 
+}
+
+.page_block {
+  min-height: 100vh;
+  /*padding-top: 40px;*/
+  padding-bottom: 40px;
+  width: 100%;
+}
+
+.block__text {
+  text-align: center;
+  font-family: "Ubuntu Condensed", sans-serif;
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+}
+
+.block_2, .block_3, .block_4, .block_5, .block_6,  .block_7,  .block_8, .block_9, .block_10, .block_11, .block_12, .block_13 {
+	min-height: 50vh;
+}
+
+.block_2, .block_3, .block_4, .block_5, .block_6, .block_9, .block_12, .block_13  {
+  .block__text {
+    color: rgb(0, 0, 0);
+  }
+  p.block__text {
+    font-size: 24px;
+  }
+  .contact_form {
+    padding-top: 40px;
+    input[type="text"], input[type="email"], input[type="phone"], input[type="submit"] {
+      border: 2px solid black;
+      height: 50px;
+      width: 250px;
+    }
+    input[type="submit"] {
+      &:hover {
+        border: 2px solid white;
+        background: black;
+        color: white;
+      }
+    }
+  }
+}
+
+.block_1, .block_14 {
+  background: transparent url("../img/bg_1.jpg") no-repeat;
+  background-position: center 75%;
+  background-size: cover;
+  .content {
+    min-height: 500px;
+  }
+}
+
+.block_14 {
+  background: transparent url("../img/bg_2.jpg") no-repeat;
+  background-position: center 75%;
+}
+
+.block_2, .block_4, .block_5, .block_6, .block_9, .block_12, .block_7, .block_8 {
+  background: transparent url("../img/white_wood_texture.jpg") repeat;
+  background-size: contain;
+}
+
+
+.block_3, .block_10, .block_11, .block_13  {
+  background: transparent url("../img/black_wood_texture.jpg") repeat;
+  background-size: contain;
+  p.block__text {
+    font-size: 24px;
+  }
+  .block__text {
+    color: white;
+  }
+}
+
+.block_10 {
+  background: transparent url("../img/white_wood_texture.jpg") repeat;
+  background-size: contain;
+   p.block__text {
+    font-size: 24px;
+  }
+  .block__text {
+    color: black;
+  }
+}
+
+.block_4 {
+
+}
+
+.block_5 {
+  .row {
+    padding-bottom: 50px;
+    padding-top: 50px;
+  }
+}
+
+.block_6 {
+  .row {
+    padding-bottom: 15px;
+    padding-top: 15px;
+  }
+}
+
+.block_12 {
+  p.ellipse__text {
+    padding-top: 40px;
+    line-height: 1.4;
+    color: white;
+    font-size: 3.0em;
+    text-align: center;
+  }
+}
+
+.block_13 {
+  min-height: 600px;
+}
+
+h1.block__text, h2.block__text {
+  font-size: 40px;
+}
+
+p.block__text {
+  font-size: 3.0em;
+  text-align: left;
+}
+
+.block_1__minitext {
+  color: white;
+  font-size: 3.0em;
+  float: left;
+}
+
+.content__block {
+  padding: 40px 100px;
+}
+
+.contact_form {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  input[type="text"], input[type="email"], input[type="phone"], input[type="submit"] {
+    height: 40px;
+    padding: 10px 15px;
+    color: black;
+    font-size: 1.2em;
+    font-family: "Ubuntu Condensed", sans-serif;
+    margin-right: 15px;
+    width: 220px;
+    background: white;
+    border: 2px solid white;
+  }
+
+  input[type="submit"] {
+    padding: 0 15px;
+    margin: 0;
+    line-height: 30px;
+    &:hover {
+      border: 2px solid black;
+    }
+  }
+}
+
+.wood_ellipse {
+  background: transparent url("../img/wood_ellipse.png") no-repeat center;
+  background-size: contain;
+  width: 100%;
+  height: 200px;
+  margin: 25px auto;
+  padding-top: 25px;
+}
+
+p.ellipse__text {
+  line-height: 1.4;
+  color: white;
+  font-size: 22px;
+  text-align: center;
+}
+
+.ch__img {
+  width: 120px;
+  float: left;
+  height: 140px;
+  margin-top: -10px;
+  margin-right: 30px;
+}
+
+.ch_container {
+	width: 330px;
+    margin: auto;
+}
+
+.ch__img_1 {
+  background: transparent url("../img/ch_1.png") no-repeat center;
+  background-size: contain;
+}
+
+.ch__img_2 {
+  background: transparent url("../img/ch_2.png") no-repeat center;
+  background-size: contain;
+}
+
+.ch__img_3 {
+  background: transparent url("../img/ch_3.png") no-repeat center;
+  background-size: contain;
+}
+
+.ch__img_4 {
+  background: transparent url("../img/ch_4.png") no-repeat center;
+  background-size: contain;
+}
+
+.ch__img_5 {
+  background: transparent url("../img/ch_5.png") no-repeat center;
+  background-size: contain;
+}
+
+.ch__img_6 {
+  background: transparent url("../img/ch_6.png") no-repeat center;
+  background-size: contain;
+}
+
+.ch__text {
+  font-size: 24px;
+  color: black;
+}
+
+.photo, .photo_wrapper {
+  height: 360px;
+  margin: auto;
+}
+
+.photo_wrapper {
+  border: #7f7f7f 2px solid;
+  padding: 5px;
+  width: 635px + 10px;
+  height: 370px + 5px;
+}
+
+.photo_1 {
+  background: transparent url("../img/ph_1.png") no-repeat center;
+  background-size: contain;
+}
+
+.photo_2 {
+  background: transparent url("../img/ph_2.png") no-repeat center;
+  background-size: contain;
+}
+
+.photo_3 {
+  background: transparent url("../img/ph_3.png") no-repeat center;
+  background-size: contain;
+}
+
+.photo_4 {
+  background: transparent url("../img/ph_4.png") no-repeat center;
+  background-size: contain;
+}
+
+.clients {
+  margin-top: 50px;
+  background: transparent url("../img/white_wood_texture.jpg") repeat;
+  width: 100%;
+  min-height: 450px;
+  background-size: cover;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.client {
+  img {
+    margin: auto;
+    width: 190px;
+    height: 105px;
+  }
+
+  margin: 15px 15px;
+  height: 105px;
+  text-align: center;
+}
+
+.big_ellipse {
+  padding-top: 60px;
+  width: 100%;
+  height: 830px;
+  background: transparent url("../img/big_ellipse.png") no-repeat center;
+  background-size: contain;
+
+  p.ellipse__text {
+    color: white;
+    line-height: 1.2;
+    font-size: 2.0em;
+  }
+}
+
+.ellipse__img {
+  margin: auto;
+  width: 60px;
+  height: 80px;
+}
+
+.ellipse__img_1 {
+  background: transparent url("../img/big_el_1.png") no-repeat center;
+  background-size: contain;
+}
+
+.ellipse__img_2 {
+  background: transparent url("../img/big_el_2.png") no-repeat center;
+  background-size: contain;
+}
+
+.ellipse__img_3 {
+  background: transparent url("../img/big_el_3.png") no-repeat center;
+  background-size: contain;
+}
+
+.ellipse__img_4 {
+  background: transparent url("../img/big_el_4.png") no-repeat center;
+  background-size: contain;
+}
+
+.ellipse__img_5 {
+  background: transparent url("../img/big_el_5.png") no-repeat center;
+  background-size: contain;
+}
+
+.ellipse__img_6 {
+  background: transparent url("../img/big_el_6.png") no-repeat center;
+  background-size: contain; 
+}
+
+.ellipse__img_7 {
+  background: transparent url("../img/big_el_7.png") no-repeat center;
+  background-size: contain;
+}
+
+.ellipse__img_8 {
+  background: transparent url("../img/big_el_8.png") no-repeat center;
+  background-size: contain;
+}
+
+.ellipse__img_9 {
+  background: transparent url("../img/big_el_9.png") no-repeat center;
+  background-size: contain;
+}
+
+.ellipse__img_10 {
+  background: transparent url("../img/big_el_10.png") no-repeat center;
+  background-size: contain;
+}
+
+.ellipse__img_11 {
+  background: transparent url("../img/big_el_11.png") no-repeat center;
+  background-size: contain;
+}
+
+.ellipse__img_12 {
+  background: transparent url("../img/big_el_12.png") no-repeat center;
+  background-size: contain;
+}
+
+.ellipse__img_13 {
+  background: transparent url("../img/big_el_13.png") no-repeat center;
+  background-size: contain;
+}
+
+
+.formsend{
+	text-align: center;
+}
+
+.block_14 {
+		p.block__text {
+			font-size: 3.5em;
+		}
+	}
+	
+.form-control {
+	width: 250px;
+    display: inline-block;
+    height: 42px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #325177;
+    background-color: #ffffff;
+    background-image: none;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+.ellipse__text__middle {
+		display:block;
+	}
+	
+@media (max-width: 740px) {
+	.block_14 {
+		p.block__text {
+			font-size: 30px;
+		}
+	}
+	
+	.block_8 {
+		padding-top: 100px;
+	}
+	
+	.logo {
+		width: 100%;
+	}
+	.formsend input, .formsend button {
+		width: 100%;
+		margin-bottom: 10px;
+	}
+	.ellipse__text__middle {
+		display:none;
+	}
+	
+	.big_ellipse {
+		background: none;
+	}
+	
+	.block_8, .block_7 {
+		background: transparent url("../img/black_wood_texture.jpg") repeat;
+		background-size: contain;
+	 }
+}

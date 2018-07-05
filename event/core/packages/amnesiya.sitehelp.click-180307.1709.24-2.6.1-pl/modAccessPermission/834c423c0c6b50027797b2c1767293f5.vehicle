@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '64f24dcd018f284a04b7ef17be03aa3d',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '834c423c0c6b50027797b2c1767293f5',
+  'native_key' => 189,
+  'object' => '{"id":189,"template":3,"name":"load","description":"perm.load_desc","value":1}',
+);

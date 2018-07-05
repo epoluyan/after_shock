@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd4a63bd6e2e4f8e7a0946aa9ab149feb',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '100730e2ef20665d385ba029931cad66',
+  'native_key' => 174,
+  'object' => '{"id":174,"template":1,"name":"workspaces","description":"perm.workspaces_desc","value":1}',
+);

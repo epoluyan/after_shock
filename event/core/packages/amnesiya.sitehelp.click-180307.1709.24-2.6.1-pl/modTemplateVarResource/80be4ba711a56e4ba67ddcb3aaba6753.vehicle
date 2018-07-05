@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e40fb7040d43ed1c9680f8219d9b397b',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '80be4ba711a56e4ba67ddcb3aaba6753',
+  'native_key' => 5,
+  'object' => '{"id":5,"tmplvarid":5,"contentid":1,"value":"[{\\"MIGX_id\\":\\"1\\",\\"image\\":\\"\\\\\\/galery\\\\\\/8marta.jpg\\"},{\\"MIGX_id\\":\\"2\\",\\"image\\":\\"galery\\\\\\/xWiD4TkdBqo.jpg\\"},{\\"MIGX_id\\":\\"3\\",\\"image\\":\\"galery\\\\\\/O1J6uaeV29w.jpg\\"}]"}',
+);

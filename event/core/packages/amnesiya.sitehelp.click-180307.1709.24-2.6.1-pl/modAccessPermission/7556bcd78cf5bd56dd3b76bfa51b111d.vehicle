@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd9df80f597116af7d639f6e576344f55',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '7556bcd78cf5bd56dd3b76bfa51b111d',
+  'native_key' => 187,
+  'object' => '{"id":187,"template":2,"name":"unpublish","description":"perm.unpublish_desc","value":1}',
+);

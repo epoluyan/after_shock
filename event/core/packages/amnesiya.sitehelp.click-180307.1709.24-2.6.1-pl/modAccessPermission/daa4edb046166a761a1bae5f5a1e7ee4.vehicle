@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '09be4610343b2995db283ea219dceb57',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'daa4edb046166a761a1bae5f5a1e7ee4',
+  'native_key' => 108,
+  'object' => '{"id":108,"template":1,"name":"providers","description":"perm.providers_desc","value":1}',
+);

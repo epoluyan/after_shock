@@ -1,0 +1,819 @@
+<?php
+    header("Content-Type: text/html; charset=utf-8");
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="favicon.ico">
+
+    <title>Амнезия | Забудь о реальности</title>
+
+    <!-- CSS Plugins -->
+    <link href="css/plugins/animate.css" rel="stylesheet">
+    <link href="css/plugins/lightbox.css" rel="stylesheet">
+    <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="fonts/open-iconic/font/css/open-iconic-bootstrap.css" rel="stylesheet">
+
+
+    <!-- CSS Custom -->
+    <link href="css/style.css" rel="stylesheet">
+    <link href="preview/preview.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
+
+    <link rel="stylesheet" href="css/colorbox.css">
+
+    <!-- Google Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic' rel='stylesheet'
+          type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Ubuntu+Condensed&subset=latin,cyrillic' rel='stylesheet'
+          type='text/css'>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body class="classic" data-spy="scroll" data-target=".scrollspy_menu">
+
+<!-- PRELOADER
+============================== -->
+<div class="preloader">
+    <img src="img/preloader.gif" alt="Loading..." class="preloader__img">
+</div>
+
+
+<!-- NAVBAR
+============================== -->
+<div class="navbar navbar-default navbar__initial navbar-fixed-top scrollspy_menu" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+        </div>
+        <div class="navbar-collapse collapse text-center">
+            <ul class="fullpage__nav nav navbar-nav navbar-right">
+                <li><a href="#welcome">Главная</a></li>
+                <li><a href="#advantages">Преимущества</a></li>
+                <li><a href="#quest">Квесты</a></li>
+                <li><a href="#geo">Где провести?</a></li>
+                <li><a href="#scen">Сценарии</a></li>
+                <li><a href="#about">О нас</a></li>
+                <li><a href="#faq">Зачем?</a></li>
+                <li><a href="#bonus">Дополнительно</a></li>
+            </ul>
+        </div>
+        <!--/.nav-collapse -->
+    </div>
+</div>
+
+
+<!-- SIDEBAR
+============================== -->
+
+<!-- Sidebar button open -->
+<div class="hidden sidebar__btn sidebar__btn_open">
+    <span class="sidebar-btn__caption">Menu</span>
+    <span class="oi oi-menu sidebar-btn__icon sidebar-btn-icon__unhover " title="Open menu" aria-hidden="true"></span>
+    <span class="oi oi-arrow-left sidebar-btn__icon sidebar-btn-icon__hover" title="Open menu"
+          aria-hidden="true"></span>
+</div>
+
+<!-- Sidebar menu -->
+<div class="sidebar__menu sidebar__menu_hidden scrollspy_menu">
+
+    <!-- Sidebar button close -->
+    <div class="sidebar__btn sidebar__btn_close">
+        <span class="sidebar-btn__caption">Menu</span>
+        <span class="oi oi-menu sidebar-btn__icon sidebar-btn-icon__unhover " title="Close menu"
+              aria-hidden="true"></span>
+        <span class="oi oi-arrow-right sidebar-btn__icon sidebar-btn-icon__hover" title="Close menu"
+              aria-hidden="true"></span>
+    </div>
+
+    <!-- Sidebar links -->
+    <ul class="fullpage__nav nav navbar-nav navbar-right">
+        <li><a href="#welcome">Главная</a></li>
+        <li><a href="#advantages">Преимущества</a></li>
+        <li><a href="#quest">Квесты</a></li>
+        <li><a href="#geo">Где провести?</a></li>
+        <li><a href="#scen">Сценарии</a></li>
+        <li><a href="#about">О нас</a></li>
+        <li><a href="#faq">Зачем?</a></li>
+        <li><a href="#bonus">Дополнительно</a></li>
+    </ul>
+
+</div>
+<!-- / .sidebar-menu__ul -->
+
+
+<!-- WELCOME
+============================== -->
+<div class="welcome_classic" id="welcome">
+    <div class="welcome-classic__inner">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-sm-10 col-sm-offset-1">
+
+                    <!-- Heading -->
+                    <h1 class="heading heading_lg">
+                        <img class="img-responsive" src="img/biglogo.png" alt="">
+                        <!-- <span class="text-primary">Amnesia</span>
+
+                        <div class="text-rec">
+                          <span>Забудь <br> о реальности</span>
+                        </div> -->
+                    </h1>
+
+                    <div class="clearfix"></div>
+
+                    <!-- Sub heading -->
+                    <p class="heading__sub">
+                        "Амнезия" - это компания по организации <br>
+                        выездных, корпоративных квестов и розыгрышей
+                    </p>
+
+                    <div class="head-phone">
+                        <i class="fa fa-phone"></i> 8-923-143-0404
+                    </div>
+
+                    <div class="header-social">
+                        <a href="http://vk.com/amneziyansk" class="social-item vk"></a>
+                        <a href="http://novosibirsk.flamp.ru/firm/amneziya_kompaniya_po_organizacii_vyezdnykh_kvestov-70000001020455499"
+                           class="social-item fl"></a>
+                        <a href="http://instagram.com/amnesia_nsk/" class="social-item in"></a>
+                    </div>
+
+                    <!-- Button -->
+                    <div class="text-center head-button">
+                        <a href="#readmoretop" class="btn btn-danger btn-lg" id="readmoretop">Заказать звонок</a>
+
+                        <!--                 <a href="#about" class="btn btn-xl btn-primary">
+                                          <span class="oi oi-arrow-right" title="Find out more" aria-hidden="true"></span>
+                                          <span>Подробнее</span>
+                                        </a> -->
+
+                    </div>
+
+                </div>
+            </div>
+            <!-- / .row -->
+        </div>
+        <!-- / .container -->
+
+        <!-- MAIN FORM
+        ============================== -->
+        <section class="main-form form-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h2></h2>
+
+                        <div class="helper"></div>
+                        <form action="" class="formsend">
+                            <input class="form-control" name="name" type="text" placeholder="Имя">
+                            <input class="form-control" name="phone" type="text" placeholder="Телефон">
+                            <input class="form-control" name="email" type="text" placeholder="E-mail">
+                            <button type="submit" class="btn btn-danger btn-lg">Получить презентацию</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </div>
+    <!-- / .classic-welcome__inner -->
+</div>
+<!-- / .welcome_classic -->
+
+
+<!-- ADVANTAGES
+============================== -->
+<section class="advantages" id="advantages">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="advantages-item">
+                    <img src="img/advantage1.png" alt="">
+
+                    <p>Количество участников <br>
+                        не ограничено</p>
+                </div>
+                <div class="advantages-item">
+                    <img src="img/advantage2.png" alt="">
+
+                    <p>Квесты проводим <br> в любом месте </p>
+                </div>
+                <div class="advantages-item">
+                    <img src="img/advantage3.png" alt="">
+
+                    <p>Костюмированные <br> актеры и аниматоры</p>
+                </div>
+                <div class="advantages-item">
+                    <img src="img/advantage4.png" alt="">
+
+                    <p>Головокружительный <br> сюжет</p>
+                </div>
+                <div class="advantages-item other-item">
+                    <img src="img/advantage5.png" alt="">
+
+                    <p>Остались вопросы <br> что такое <br> выездной квест?</p>
+                    <a class="inline cboxElement btn btn-danger btn-lg" href="#question">Подробнее</a>
+                </div>
+
+                <div class="question">
+                    <div id="question" class="inline">
+                        <p>Каждая наша игра создана и тщательно проработана специально для вас и вашей компании, которая
+                            поможет вам забыть о ежедневной рутине и позволит погрузится в совершенно новую и
+                            захватывающую атмосферу игры, где стирается грань между реальностью и фантазией.</p>
+                    </div>
+                </div>
+                <div id="readmoretop2"></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- MAIN FORM
+============================== -->
+<section class="main-form">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h2>ОСТАВЬТЕ ЗАЯВКУ ПРЯМО СЕЙЧАС!</h2>
+
+                <h3>ОСТАВЬТЕ ЗАЯВКУ И ПОЛУЧИТЕ СЦЕНАРИЙ И ФОТО-СЪЕМКУ В ПОДАРОК</h3>
+
+                <div class="helper"></div>
+                <form action="" class="formsend">
+                    <input class="form-control" name="name" type="text" placeholder="Имя">
+                    <input class="form-control" name="phone" type="text" placeholder="Телефон">
+                    <input class="form-control" name="email" type="text" placeholder="E-mail">
+                    <button type="submit" class="btn btn-danger btn-lg">Получить</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- QUEST
+============================== -->
+<section class="quest" id="quest">
+    <h2>Что такое выездные квесты <br> и какие бывают квесты?</h2>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="quest-item">
+                    <img src="img/quest1.png" alt="">
+
+                    <p>Квест в помещении</p>
+                </div>
+                <div class="quest-item">
+                    <img src="img/quest2.png" alt="">
+
+                    <p>Детские квесты</p>
+                </div>
+                <div class="quest-item">
+                    <img src="img/quest3.png" alt="">
+
+                    <p>Квесты на корпоратив</p>
+                </div>
+                <div class="quest-item">
+                    <img src="img/quest4.png" alt="">
+
+                    <p>Квест на автомобилях</p>
+                </div>
+                <div class="quest-item other-item">
+                    <img src="img/quest5.png" alt="">
+
+                    <p>Розыгрыш</p>
+                    <a href="#readmoretop2" class="btn btn btn-danger btn-lg">Подробнее</a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- AKCIYA
+============================== -->
+<section class="akciya" id="akciya">
+    <h2>Новогодний подарок от Амнезии!</h2>
+
+    <div class="container">
+        <div class="row">
+		 
+            <div class= "quest-item2">
+			<img src="img/podarokchek.png" alt="">
+			<p> Новогодний квест для тебя и твоих друзей - скачай, распечатай и играй! </p>
+        </div>
+    </div>
+	</div>
+	
+</section>
+<!-- GEO
+============================== -->
+<section class="geo" id="geo">
+    <h2>КВЕСТ МОЖНО ПРОВЕСТИ В ЛЮБОМ МЕСТЕ</h2>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="geo-item">
+                    <img src="img/geo1.png" alt="">
+
+                    <p>В офисе</p>
+                </div>
+                <div class="geo-item">
+                    <img src="img/geo2.png" alt="">
+
+                    <p>В отеле</p>
+                </div>
+                <div class="geo-item">
+                    <img src="img/geo3.png" alt="">
+
+                    <p>В конференц-зале <br> или переговорной <br>комнате</p>
+                </div>
+                <div class="geo-item">
+                    <img src="img/geo4.png" alt="">
+
+                    <p>В загородном доме</p>
+                </div>
+                <div class="geo-item">
+                    <img src="img/geo5.png" alt="">
+
+                    <p>В ресторане</p>
+                </div>
+                <div class="geo-item">
+                    <img src="img/geo6.png" alt="">
+
+                    <p>На выставке</p>
+                </div>
+                <div class="geo-item">
+                    <img src="img/geo7.png" alt="">
+
+                    <p>В любом помещении <br> не менее 25кв. метров</p>
+                </div>
+                <div class="geo-item">
+                    <img src="img/geo8.png" alt="">
+
+                    <p>Нет помещения? <br> Мы найдем</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- SCEN
+============================== -->
+<section class="scen" id="scen">
+    <h2>МЫ МОЖЕМ РАЗРАБОТАТЬ ДЛЯ ВАС КВЕСТ ЛЮБОЙ ТЕМАТИКИ!</h2>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="scen-item">
+                    <img src="img/scen-icon1.png" alt="">
+
+                    <p>Приключение</p>
+                </div>
+                <div class="scen-item detective">
+                    <img src="img/scen-icon2.png" alt="">
+
+                    <p>Детектив</p>
+                </div>
+                <div class="scen-item comedy">
+                    <img src="img/scen-icon3.png" alt="">
+
+                    <p>Комедия</p>
+                </div>
+                <div class="scen-item mystic">
+                    <img src="img/scen-icon4.png" alt="">
+
+                    <p>Мистика</p>
+                </div>
+                <div class="scen-item horror">
+                    <img src="img/scen-icon5.png" alt="">
+
+                    <p>Ужасы</p>
+                </div>
+                <div class="scen-item fantastic">
+                    <img src="img/scen-icon6.png" alt="">
+
+                    <p>Фантастика</p>
+                </div>
+                <div class="scen-item children">
+                    <img src="img/scen-icon7.png" alt="">
+
+                    <p>Детский</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <a href="#readmore" class="btn btn-danger btn-lg">Давайте мы расскажем подробнее</a>
+</section>
+
+<!-- EMOTION
+============================== -->
+<section class="emotion">
+    <h2>МЫ СОЗДАЕМ ЭМОЦИИ И ВПЕЧАТЛЕНИЯ ЛЮДЕЙ!</h2>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 emotion-item">
+                <img src="img/emotion1.png" alt="">
+
+                <p>Уникальный <br>реквизит и костюмы</p>
+            </div>
+            <div class="col-lg-4 emotion-item">
+                <img src="img/emotion2.png" alt="">
+
+                <p>Профессиональные актеры <br> театров Новосибирска</p>
+            </div>
+            <div class="col-lg-4 emotion-item">
+                <img src="img/emotion3.png" alt="">
+
+                <p>Умопомрачительные <br> нестандартные сюжеты</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- COLS
+============================== -->
+<section class="cols">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12">
+
+                
+                <div class="cols-item-wrapper">
+                    <div class="cols-item about-one"></div>
+                    <p>Мы делали квест <br> для одного человека</p>
+                </div>
+                <div class="cols-item-wrapper">
+                    <div class="cols-item about-three"></div>
+                    <p>Мы делали квест <br> для 300 человек</p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="about" id="about">
+    <h2>Наша компания состоит из:</h2>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <img src="img/about2.png" alt="">
+
+                <p>Отдела креатива</p>
+            </div>
+            <div class="col-lg-4">
+                <img src="img/about1.png" alt="">
+
+                <p>Отдела производства</p>
+            </div>
+            <div class="col-lg-4">
+                <img src="img/about3.png" alt="">
+
+                <p>Реквизитная <br>мастерская и костюмерная</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="about-tags">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="about-tag-item event1"></div>
+                <p>С НАМИ РАБОТАЮТ <br> КРУПНЕЙШИЕ EVENT-АГЕНТСТВА. </p>
+
+                <p class="small">И их становится <br> все больше и больше</p>
+            </div>
+            <div class="col-lg-4">
+                <div class="about-tag-item event2"></div>
+                <p>СОВРЕМЕННЫЕ <br> И ОРИГИНАЛЬНЫЕ ПРОГРАММЫ!</p>
+
+                <p class="small">Мы следим за современными <br> трендами и постоянно <br>совершенствуем наши программы
+                </p>
+            </div>
+            <div class="col-lg-4">
+                <div class="about-tag-item event3"></div>
+                <p>УДОБНАЯ И ГИБКАЯ <br> СИСТЕМА КВЕСТОВ!</p>
+
+                <p class="small">Мы всегда готовы подобрать <br> подходящий и выгодный для <br> вас вариант квеста. </p>
+            </div>
+        </div>
+    </div>
+    </ssectin>
+
+    <!-- INSTAGRAM
+    ============================== -->
+    <section class="instagram">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-6 image">
+                    <a href="http://instagram.com/amnesia_nsk/" class="social-item in">
+                        <img class="img-responsive" src="img/instagram.gif" alt="">
+                    </a>
+                </div>
+                <div class="col-lg-6 slog">
+                    <h2>Кто мы такие? <br>
+                        Посмотри наш instagram <br><a href="http://instagram.com/amnesia_nsk/">#amnesia_nsk</a></h2>
+                </div>
+            </div>
+        </div>
+        <div id="readmore"></div>
+    </section>
+
+    <!-- MAIN FORM
+    ============================== -->
+    <section class="main-form">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2>ОТВЕТИМ НА ВАШИ ВОПРОСЫ И ПРЕДЛОЖИМ РЕШЕНИЯ</h2>
+
+                    <div class="helper"></div>
+                    <form action="" class="formsend">
+                        <input class="form-control" name="name" type="text" placeholder="Имя">
+                        <input class="form-control" name="phone" type="text" placeholder="Телефон">
+                        <input class="form-control" name="email" type="text" placeholder="E-mail">
+                        <button type="submit" class="btn btn-danger btn-lg">Заказать звонок</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="faq" id="faq">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 slog">
+                    <h2>ЗАЧЕМ ВАМ КВЕСТ?</h2>
+
+                    <p>В ИГРОВОЙ ФОРМЕ МЫ МОЖЕМ ДОНЕСТИ ТО, ЧТО НЕ ПОЙМУТ НА СОВЕЩАНИИ: ЦЕННОСТИ, ЦЕЛИ, ПРАВИЛА ИЛИ ДАЖЕ
+                        ИНФОРМАЦИЮ О РЕСТРУКТУРИЗАЦИИ!</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- BONUS
+    ============================== -->
+    <section class="bonus" id="bonus">
+        <h2>ТАКЖЕ МЫ МОЖЕМ</h2>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="bonus-wrapper">
+                        <div class="bonus-item video"></div>
+                        <p>ФОТО-ВИДЕО СЪЕМКА </p>
+
+                        <p class="small">Организовать <br> фото-видео съемку</p>
+                    </div>
+                    <div class="bonus-wrapper">
+                        <div class="bonus-item screenplay"></div>
+                        <p>СЦЕНАРИЙ</p>
+
+                        <p class="small">Разработать сценарий <br> и реализовать квест <br> с вашими целями</p>
+                    </div>
+                    <div class="bonus-wrapper">
+                        <div class="bonus-item earth"></div>
+                        <p>ПРОВЕСТИ КВЕСТ <br> В ЛЮБОЙ ТОЧКЕ ШАРА</p>
+
+                        <p class="small"></p>
+                    </div>
+                    <div class="bonus-wrapper">
+                        <div class="bonus-item evening"></div>
+                        <p>ОРГАНИЗОВАТЬ <br> ВЕЧЕРНЮЮ ПРОГРАММУ</p>
+
+                        <p class="small"></p>
+                    </div>
+                    <div class="bonus-wrapper">
+                        <div class="bonus-item area"></div>
+                        <p>ПОДОБРАТЬ ПЛОЩАДКУ</p>
+
+                        <p class="small"></p>
+                    </div>
+                    <div class="bonus-wrapper">
+                        <div class="bonus-item bar"></div>
+                        <p>ОРГАНИЗОВАТЬ <br> ВЫЕЗДНОЙ БАР</p>
+
+                        <p class="small"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- MAIN FORM
+    ============================== -->
+    <section class="main-form">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2>ЗАДАЙТЕ НАМ СВОЙ ВОПРОС</h2>
+
+                    <div class="helper"></div>
+                    <form action="" class="formsend">
+                        <input class="form-control" name="name" type="text" placeholder="Имя">
+                        <input class="form-control" name="phone" type="text" placeholder="Телефон">
+                        <input class="form-control" name="email" type="text" placeholder="E-mail">
+                        <button type="submit" class="btn btn-danger btn-lg">Заказать звонок</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- FOOTER
+    ============================== -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-sm-10 col-sm-offset-1">
+                    <img class="img-responsive" src="img/logo-black.png" alt="">
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+    <div class="success">
+        <div id="success">
+            <h2>Ваша заявка успешно отправлена!</h2>
+        </div>
+    </div>
+
+    <!-- JavaScript
+    ================================================== -->
+
+    <!-- JS Global -->
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+
+    <!-- Fancybox -->
+    <script src="js/jquery.colorbox.js"></script>
+
+    <script src="js/jquery.inputmask.bundle.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('input[name=phone]').inputmask("9-999-999-9999");  //static mask
+        });
+    </script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $(".inline").colorbox({inline: true, width: "50%", slideshow: false});
+        });
+    </script>
+
+    <script src="js/bootstrap/bootstrap.min.js"></script>
+
+    <!-- JS Plugins -->
+    <script src="js/plugins/smoothscroll.js"></script>
+    <script src="js/plugins/jquery.waypoints.min.js"></script>
+    <script src="js/plugins/imagesloaded.pkgd.min.js"></script>
+    <script src="js/plugins/isotope.pkgd.min.js"></script>
+    <script src="js/plugins/lightbox.min.js"></script>
+    <script src="js/plugins/contact.js"></script>
+
+    <!-- JS Custom -->
+    <script src="js/custom_classic.js"></script>
+    <script src="js/custom.js"></script>
+    <script src="preview/preview.js"></script>
+
+    <script>
+        $(document).ready(function () { // вся магия после загрузки страницы
+            $(".formsend").submit(function () { // перехватываем все при событии отправки
+                var form = $(this); // запишем форму, чтобы потом не было проблем с this
+                var error = false; // предварительно ошибок нет
+
+                form.find("input[name=name]").focus(function () {
+                    form.find('input[name=name]').removeClass("form-error");
+                });
+                form.find("input[name=phone]").focus(function () {
+                    form.find('input[name=phone]').removeClass("form-error");
+                });
+                form.find("input[name=email]").focus(function () {
+                    form.find('input[name=email]').removeClass("form-error");
+                });
+
+                form.find('input').each(function () { // пробежим по каждому полю в форме
+                    if (form.find('input[name=name]').val() == '') { // если находим пустое
+                        form.find('input[name=name]').addClass("form-error");
+                        error = true; // ошибка
+                    }
+
+                    if (form.find('input[name=phone]').val() == '') { // если находим пустое
+                        form.find('input[name=phone]').addClass("form-error");
+                        error = true; // ошибка
+                    }
+
+                    if (form.find('input[name=email]').val() == '') { // если находим пустое
+                        form.find('input[name=email]').addClass("form-error");
+                        error = true; // ошибка
+                    }
+                });
+
+                if (!error) { // если ошибки нет
+                    var data = form.serialize(); // подготавливаем данные
+                    $.ajax({ // инициализируем ajax запрос
+                        type: 'POST', // отправляем в POST формате, можно GET
+                        url: '/form.php', // путь до обработчика, у нас он лежит в той же папке
+                        dataType: 'json', // ответ ждем в json формате
+                        data: data, // данные для отправки
+                        beforeSend: function (data) { // событие до отправки
+                            form.find('input[type="submit"]').attr('disabled', 'disabled'); // например, отключим кнопку, чтобы не жали по 100 раз
+                        },
+                        success: function (data) { // событие после удачного обращения к серверу и получения ответа
+                            if (data['error']) { // если обработчик вернул ошибку
+                                alert(data['error']); // покажем её текст
+                            } else { // если все прошло ок
+                                $.colorbox({inline: true, href: "#success", width: "50%", slideshow: false}); //позволяет открыть модальное окно fancybox по завершению передачи данных
+                                $('input[name=name], input[name=phone], input[name=email]').val('');
+                            }
+                        },
+                        error: function (xhr, ajaxOptions, thrownError) { // в случае неудачного завершения запроса к серверу
+                            alert(xhr.status); // покажем ответ сервера
+                            alert(thrownError); // и текст ошибки
+                        },
+                        complete: function (data) { // событие после любого исхода
+                            form.find('input[type="submit"]').prop('disabled', false); // в любом случае включим кнопку обратно
+                        }
+
+                    });
+                }
+                return false; // вырубаем стандартную отправку формы
+            });
+        });
+    </script>
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function (d, w, c) {
+            (w[c] = w[c] || []).push(function () {
+                try {
+                    w.yaCounter33394513 = new Ya.Metrika({
+                        id: 33394513,
+                        clickmap: true,
+                        trackLinks: true,
+                        accurateTrackBounce: true,
+                        webvisor: true
+                    });
+                } catch (e) {
+                }
+            });
+
+            var n = d.getElementsByTagName("script")[0],
+                    s = d.createElement("script"),
+                    f = function () {
+                        n.parentNode.insertBefore(s, n);
+                    };
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+            if (w.opera == "[object Opera]") {
+                d.addEventListener("DOMContentLoaded", f, false);
+            } else {
+                f();
+            }
+        })(document, window, "yandex_metrika_callbacks");
+    </script>
+    <noscript>
+        <div><img src="https://mc.yandex.ru/watch/33394513" style="position:absolute; left:-9999px;" alt=""/></div>
+    </noscript>
+    <!-- /Yandex.Metrika counter -->
+    <!-- leestarch.ru: hidden copyright -->
+
+<script type="text/javascript" src="//cdn.callbackhunter.com/cbh.js?hunter_code=7fe1c4c67a0c366784e32b87f885931a" charset="UTF-8"></script>
+</body>
+</html>

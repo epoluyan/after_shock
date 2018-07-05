@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '97029da7e8d9a0f022b5ec37a4078934',
+  'package' => 'modx',
+  'class' => 'modActionField',
+  'signature' => 'd64b0529d5986f4bd87e351715aa90cf',
+  'native_key' => 75,
+  'object' => '{"id":75,"action":"resource\\/create","name":"modx-resource-access-permissions","type":"tab","tab":"","form":"modx-panel-resource","other":"","rank":9}',
+);

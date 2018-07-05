@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '940819cf600f44981a8a6364ce52b86b',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '7f5cea715cd0d58ccbf809b60ce20896',
+  'native_key' => 29,
+  'object' => '{"id":29,"source":1,"property_preprocess":0,"name":"footer","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<footer>\\r\\n        <div class=\\"container\\">\\r\\n            <div class=\\"row\\">\\r\\n                <div class=\\"col-lg-8 col-lg-offset-2 col-sm-10 col-sm-offset-1\\">\\r\\n                    <img class=\\"img-responsive\\" src=\\"img\\/logo-black.png\\" alt=\\"\\">\\r\\n                <\\/div>\\r\\n            <\\/div>\\r\\n        <\\/div>\\r\\n    <\\/footer>","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<footer>\\r\\n        <div class=\\"container\\">\\r\\n            <div class=\\"row\\">\\r\\n                <div class=\\"col-lg-8 col-lg-offset-2 col-sm-10 col-sm-offset-1\\">\\r\\n                    <img class=\\"img-responsive\\" src=\\"img\\/logo-black.png\\" alt=\\"\\">\\r\\n                <\\/div>\\r\\n            <\\/div>\\r\\n        <\\/div>\\r\\n    <\\/footer>"}',
+);

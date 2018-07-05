@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '2a1de0b09fafc1e16c83d98ce590e251',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '6fc438f9f5dee863cc1ab93258efba4a',
+  'native_key' => 72,
+  'object' => '{"id":72,"template":1,"name":"menu_security","description":"perm.menu_security_desc","value":1}',
+);

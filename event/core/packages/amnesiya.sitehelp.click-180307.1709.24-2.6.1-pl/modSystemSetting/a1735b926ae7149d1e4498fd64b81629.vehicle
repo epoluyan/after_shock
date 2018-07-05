@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b0632915eb0571bdd2163c2acc531bfb',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'a1735b926ae7149d1e4498fd64b81629',
+  'native_key' => 'tiny.indentation',
+  'object' => '{"key":"tiny.indentation","value":"30px","xtype":"textfield","namespace":"tinymce","area":"cleanup-output","editedon":null}',
+);

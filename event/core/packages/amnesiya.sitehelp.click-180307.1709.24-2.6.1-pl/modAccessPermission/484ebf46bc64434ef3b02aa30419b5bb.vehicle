@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '917570e0de495ddf87a08672ede77e1e',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '484ebf46bc64434ef3b02aa30419b5bb',
+  'native_key' => 159,
+  'object' => '{"id":159,"template":1,"name":"view_chunk","description":"perm.view_chunk_desc","value":1}',
+);

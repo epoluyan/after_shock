@@ -1,0 +1,15 @@
+<?php return array (
+  'class' => 'xPDOFileVehicle',
+  'object' => 
+  array (
+    'source' => '/home/c/cp50844/amnesiya/public_html/manager/components',
+    'target' => 'return MODX_MANAGER_PATH;',
+    'name' => 'components',
+  ),
+  'vehicle_class' => 'xPDOFileVehicle',
+  'vehicle_package' => 'transport',
+  'guid' => 'a56e6c55e9d506eb6e6ea1906806ee2d',
+  'package' => '',
+  'signature' => 'a2740167777d4928c259fac9bd7d4a76',
+  'native_key' => 'a56e6c55e9d506eb6e6ea1906806ee2d',
+);

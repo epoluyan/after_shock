@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '069a1068a8ebd157aea4cff17b6e4025',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '878e4845ebce25c73f2c68cc8f0d0911',
+  'native_key' => 'site_unavailable_page',
+  'object' => '{"key":"site_unavailable_page","value":"0","xtype":"textfield","namespace":"core","area":"site","editedon":null}',
+);

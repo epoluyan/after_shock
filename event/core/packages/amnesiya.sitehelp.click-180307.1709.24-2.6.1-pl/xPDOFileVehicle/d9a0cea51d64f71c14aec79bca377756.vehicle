@@ -1,0 +1,15 @@
+<?php return array (
+  'class' => 'xPDOFileVehicle',
+  'object' => 
+  array (
+    'source' => 'amnesiya.sitehelp.click-180307.1709.24-2.6.1-pl/xPDOFileVehicle/d9a0cea51d64f71c14aec79bca377756/',
+    'target' => 'return MODX_BASE_PATH;',
+    'name' => 'owl',
+  ),
+  'vehicle_class' => 'xPDOFileVehicle',
+  'vehicle_package' => 'transport',
+  'guid' => 'ba19e852963c19a1e107c55cca39551b',
+  'package' => '',
+  'signature' => 'd9a0cea51d64f71c14aec79bca377756',
+  'native_key' => 'ba19e852963c19a1e107c55cca39551b',
+);

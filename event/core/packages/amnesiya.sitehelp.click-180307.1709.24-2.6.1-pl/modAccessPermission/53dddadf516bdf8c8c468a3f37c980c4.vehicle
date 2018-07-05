@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f94d8feab662737a36aa748da224e9aa',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '53dddadf516bdf8c8c468a3f37c980c4',
+  'native_key' => 21,
+  'object' => '{"id":21,"template":1,"name":"delete_eventlog","description":"perm.delete_eventlog_desc","value":1}',
+);

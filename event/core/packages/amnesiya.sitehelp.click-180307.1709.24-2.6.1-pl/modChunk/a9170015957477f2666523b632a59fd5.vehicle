@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '796c42ee015e68041ddd48502afb5010',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'a9170015957477f2666523b632a59fd5',
+  'native_key' => 23,
+  'object' => '{"id":23,"source":1,"property_preprocess":0,"name":"instagram","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"    <section class=\\"instagram\\">\\n        <div class=\\"container-fluid\\">\\n            <div class=\\"row\\">\\n                <div class=\\"col-lg-6 image\\">\\n                    <a href=\\"http:\\/\\/instagram.com\\/amnesia_nsk\\/\\" class=\\"social-item in\\">\\n                        <img class=\\"img-responsive\\" src=\\"img\\/instagram.gif\\" alt=\\"\\">\\n                    <\\/a>\\n                <\\/div>\\n                <div class=\\"col-lg-6 slog\\">\\n                    <h2>\\u041a\\u0442\\u043e \\u043c\\u044b \\u0442\\u0430\\u043a\\u0438\\u0435? <br>\\n                        \\u041f\\u043e\\u0441\\u043c\\u043e\\u0442\\u0440\\u0438 \\u043d\\u0430\\u0448 instagram <br><a href=\\"http:\\/\\/instagram.com\\/amnesia_nsk\\/\\">#amnesia_nsk<\\/a><\\/h2>\\n                <\\/div>\\n            <\\/div>\\n        <\\/div>\\n        <div id=\\"readmore\\"><\\/div>\\n    <\\/section>","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"    <section class=\\"instagram\\">\\n        <div class=\\"container-fluid\\">\\n            <div class=\\"row\\">\\n                <div class=\\"col-lg-6 image\\">\\n                    <a href=\\"http:\\/\\/instagram.com\\/amnesia_nsk\\/\\" class=\\"social-item in\\">\\n                        <img class=\\"img-responsive\\" src=\\"img\\/instagram.gif\\" alt=\\"\\">\\n                    <\\/a>\\n                <\\/div>\\n                <div class=\\"col-lg-6 slog\\">\\n                    <h2>\\u041a\\u0442\\u043e \\u043c\\u044b \\u0442\\u0430\\u043a\\u0438\\u0435? <br>\\n                        \\u041f\\u043e\\u0441\\u043c\\u043e\\u0442\\u0440\\u0438 \\u043d\\u0430\\u0448 instagram <br><a href=\\"http:\\/\\/instagram.com\\/amnesia_nsk\\/\\">#amnesia_nsk<\\/a><\\/h2>\\n                <\\/div>\\n            <\\/div>\\n        <\\/div>\\n        <div id=\\"readmore\\"><\\/div>\\n    <\\/section>"}',
+);

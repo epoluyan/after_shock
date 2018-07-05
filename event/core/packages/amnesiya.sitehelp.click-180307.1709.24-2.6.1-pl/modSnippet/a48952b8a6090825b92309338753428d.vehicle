@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '988f9123f9ad6d2795c4c93a63559ad8',
+  'package' => 'modx',
+  'class' => 'modSnippet',
+  'signature' => 'a48952b8a6090825b92309338753428d',
+  'native_key' => 25,
+  'object' => '{"id":25,"source":0,"property_preprocess":0,"name":"migxJsonToPlaceholders","description":"","editor_type":0,"category":2,"cache_type":0,"snippet":"$value = $modx->getOption(\'value\',$scriptProperties,\'\');\\n$prefix = $modx->getOption(\'prefix\',$scriptProperties,\'\');\\n\\n\\/\\/$modx->setPlaceholders($modx->fromJson($value),$prefix,\'\',true);\\n\\n$values = $modx->fromJson($value);\\nif (is_array($values)){\\n    foreach ($values as $key => $value){\\n        $value = $value == null ? \'\' : $value;\\n        $modx->setPlaceholder($prefix . $key, $value);\\n    }\\n}","locked":0,"properties":"","moduleguid":"","static":0,"static_file":"","content":"$value = $modx->getOption(\'value\',$scriptProperties,\'\');\\n$prefix = $modx->getOption(\'prefix\',$scriptProperties,\'\');\\n\\n\\/\\/$modx->setPlaceholders($modx->fromJson($value),$prefix,\'\',true);\\n\\n$values = $modx->fromJson($value);\\nif (is_array($values)){\\n    foreach ($values as $key => $value){\\n        $value = $value == null ? \'\' : $value;\\n        $modx->setPlaceholder($prefix . $key, $value);\\n    }\\n}"}',
+);

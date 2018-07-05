@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '171a2f666a32eab03e59a4242269714b',
+  'package' => 'modx',
+  'class' => 'modTemplateVar',
+  'signature' => 'c1fbbe863b3f0fa95cf047d39f77b07d',
+  'native_key' => 5,
+  'object' => '{"id":5,"source":1,"property_preprocess":0,"type":"migx","name":"promo","caption":"\\u0413\\u043e\\u0440\\u044f\\u0447\\u0435\\u0435 \\u043f\\u0440\\u0435\\u0434\\u043b\\u043e\\u0436\\u0435\\u043d\\u0438\\u0435","description":"","editor_type":0,"category":0,"locked":0,"elements":"","rank":0,"display":"default","default_text":"","properties":"a:0:{}","input_properties":"a:7:{s:7:\\"configs\\";s:0:\\"\\";s:8:\\"formtabs\\";s:120:\\"[{\\"caption\\":\\"gallery\\", \\"fields\\": [\\n    {\\"field\\":\\"image\\",\\"caption\\":\\"\\u0418\\u0437\\u043e\\u0431\\u0440\\u0430\\u0436\\u0435\\u043d\\u0438\\u0435\\",\\"inputTVtype\\":\\"image\\"}\\n  ]\\n}]\\";s:7:\\"columns\\";s:116:\\"[{\\n  \\"header\\": \\"\\u0418\\u0437\\u043e\\u0431\\u0440\\u0430\\u0436\\u0435\\u043d\\u0438\\u0435\\", \\"sortable\\": \\"false\\", \\"dataIndex\\": \\"image\\",\\"renderer\\": \\"this.renderImage\\"\\n}]\\";s:7:\\"btntext\\";s:39:\\"\\u0414\\u043e\\u0431\\u0430\\u0432\\u0438\\u0442\\u044c \\u043f\\u0440\\u0435\\u0434\\u043b\\u043e\\u0436\\u0435\\u043d\\u0438\\u0435\\";s:10:\\"previewurl\\";s:0:\\"\\";s:10:\\"jsonvarkey\\";s:0:\\"\\";s:19:\\"autoResourceFolders\\";s:5:\\"false\\";}","output_properties":"a:0:{}","static":0,"static_file":"","content":""}',
+);

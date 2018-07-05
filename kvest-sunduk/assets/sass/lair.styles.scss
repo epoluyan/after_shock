@@ -1,0 +1,46 @@
+$screen-sm-min: 768px;
+$screen-md-min: 992px;
+$screen-lg-min: 1200px;
+$screen-slg-min: 1600px;
+$screen-mlg-min: 1920px;
+
+@mixin rotate($deg) {
+  -webkit-transform: rotate($deg);
+  -moz-transform: rotate($deg);
+  -ms-transform: rotate($deg);
+  -o-transform: rotate($deg);
+  transform: rotate($deg);
+}
+
+@mixin rotate-mirror($deg) {
+  -webkit-transform: scale(1, -1) rotate($deg);
+  -moz-transform: scale(1, -1) rotate($deg);
+  -ms-transform: scale(1, -1) rotate($deg);
+  -o-transform: scale(1, -1) rotate($deg);
+  transform: scale(1, -1) rotate($deg);
+}
+
+.flex_container {
+  width: 100%;
+  display: flex;
+}
+
+.flex_wrap {
+  margin: auto;
+}
+
+.flex_row {
+  flex-direction: column;
+}
+
+.flex_full {
+  height: 100%;
+}
+
+main.content {
+  flex: 1 0 auto;
+}
+
+footer.footer {
+  flex: 0 0 auto;
+}

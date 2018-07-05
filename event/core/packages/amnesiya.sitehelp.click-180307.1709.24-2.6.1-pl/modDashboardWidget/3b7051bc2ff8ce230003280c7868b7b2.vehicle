@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b86a18f145dbbca1fc9e863d6dc25046',
+  'package' => 'modx',
+  'class' => 'modDashboardWidget',
+  'signature' => '3b7051bc2ff8ce230003280c7868b7b2',
+  'native_key' => 5,
+  'object' => '{"id":5,"name":"w_configcheck","description":"w_configcheck_desc","type":"file","content":"[[++manager_path]]controllers\\/default\\/dashboard\\/widget.configcheck.php","namespace":"core","lexicon":"core:dashboards","size":"full","name_trans":"w_configcheck","description_trans":"w_configcheck_desc"}',
+);

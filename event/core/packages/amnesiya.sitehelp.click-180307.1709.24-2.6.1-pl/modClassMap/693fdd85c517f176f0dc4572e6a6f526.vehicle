@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '736a2e32fba6c6fa97ef8c707791d44a',
+  'package' => 'modx',
+  'class' => 'modClassMap',
+  'signature' => '693fdd85c517f176f0dc4572e6a6f526',
+  'native_key' => 4,
+  'object' => '{"id":4,"class":"modStaticResource","parent_class":"modResource","name_field":"pagetitle","path":"","lexicon":"core:resource"}',
+);

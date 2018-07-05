@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5669c25ab3472a409ede0ec7ac1864e7',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '5dc9a5153a744dd0bfaf597ba35d667f',
+  'native_key' => 'phpthumbon.ext',
+  'object' => '{"key":"phpthumbon.ext","value":"jpeg","xtype":"textfield","namespace":"phpthumbon","area":"general","editedon":null}',
+);

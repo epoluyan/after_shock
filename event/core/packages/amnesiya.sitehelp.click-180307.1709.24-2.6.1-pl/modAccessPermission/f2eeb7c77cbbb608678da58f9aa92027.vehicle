@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '4f197016d03e4e1ada5ac1a119e29912',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'f2eeb7c77cbbb608678da58f9aa92027',
+  'native_key' => 136,
+  'object' => '{"id":136,"template":1,"name":"search","description":"perm.search_desc","value":1}',
+);

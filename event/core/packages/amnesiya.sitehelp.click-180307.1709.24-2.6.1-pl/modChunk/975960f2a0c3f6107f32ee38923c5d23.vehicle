@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3e6dff997dfadc0337de5b2203ac2cbb',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '975960f2a0c3f6107f32ee38923c5d23',
+  'native_key' => 25,
+  'object' => '{"id":25,"source":1,"property_preprocess":0,"name":"bonus","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<section class=\\"bonus\\" id=\\"bonus\\">\\n    <h2>\\u0422\\u0410\\u041a\\u0416\\u0415 \\u041c\\u042b \\u041c\\u041e\\u0416\\u0415\\u041c<\\/h2>\\n    <div class=\\"container\\">\\n        <div class=\\"row\\">\\n            <div class=\\"col-lg-12\\">\\n                [[!getImageList? &tvname=`bonus` &tpl=`@CODE: <div class=\\"bonus-wrapper\\"><div class=\\"bonus-item\\" style=\\"background-image: url([[+image]]);\\"><\\/div><p>[[+title]]<\\/p><p class=\\"small\\">[[+text]]<\\/p><\\/div>`]]\\n            <\\/div>\\n        <\\/div>\\n    <\\/div>\\n<\\/section>","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<section class=\\"bonus\\" id=\\"bonus\\">\\n    <h2>\\u0422\\u0410\\u041a\\u0416\\u0415 \\u041c\\u042b \\u041c\\u041e\\u0416\\u0415\\u041c<\\/h2>\\n    <div class=\\"container\\">\\n        <div class=\\"row\\">\\n            <div class=\\"col-lg-12\\">\\n                [[!getImageList? &tvname=`bonus` &tpl=`@CODE: <div class=\\"bonus-wrapper\\"><div class=\\"bonus-item\\" style=\\"background-image: url([[+image]]);\\"><\\/div><p>[[+title]]<\\/p><p class=\\"small\\">[[+text]]<\\/p><\\/div>`]]\\n            <\\/div>\\n        <\\/div>\\n    <\\/div>\\n<\\/section>"}',
+);

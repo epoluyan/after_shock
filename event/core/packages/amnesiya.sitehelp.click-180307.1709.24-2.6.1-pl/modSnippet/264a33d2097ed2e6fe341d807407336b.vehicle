@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a2d736ed4fc919dd30ae854cd1143e6e',
+  'package' => 'modx',
+  'class' => 'modSnippet',
+  'signature' => '264a33d2097ed2e6fe341d807407336b',
+  'native_key' => 18,
+  'object' => '{"id":18,"source":0,"property_preprocess":0,"name":"migxSwitchDetailChunk","description":"","editor_type":0,"category":2,"cache_type":0,"snippet":"\\/\\/[[migxSwitchDetailChunk? &detailChunk=`detailChunk` &listingChunk=`listingChunk`]]\\n\\n\\n$properties[\'migx_id\'] = $modx->getOption(\'migx_id\',$_GET,\'\');\\n\\nif (!empty($properties[\'migx_id\'])){\\n    $output = $modx->getChunk($detailChunk,$properties);\\n}\\nelse{\\n    $output = $modx->getChunk($listingChunk);\\n}\\n\\nreturn $output;","locked":0,"properties":"","moduleguid":"","static":0,"static_file":"","content":"\\/\\/[[migxSwitchDetailChunk? &detailChunk=`detailChunk` &listingChunk=`listingChunk`]]\\n\\n\\n$properties[\'migx_id\'] = $modx->getOption(\'migx_id\',$_GET,\'\');\\n\\nif (!empty($properties[\'migx_id\'])){\\n    $output = $modx->getChunk($detailChunk,$properties);\\n}\\nelse{\\n    $output = $modx->getChunk($listingChunk);\\n}\\n\\nreturn $output;"}',
+);

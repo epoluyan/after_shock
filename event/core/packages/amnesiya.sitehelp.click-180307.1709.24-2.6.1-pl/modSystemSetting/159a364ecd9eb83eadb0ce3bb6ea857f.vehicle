@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '8886fd5baa11506f8ccdc4bcae4756a7',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '159a364ecd9eb83eadb0ce3bb6ea857f',
+  'native_key' => 'proxy_username',
+  'object' => '{"key":"proxy_username","value":"","xtype":"textfield","namespace":"core","area":"proxy","editedon":null}',
+);

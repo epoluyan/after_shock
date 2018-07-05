@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a1d36388e7f2b02846fa6a86ecb41a8f',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'b5dd6a47afd2bd82332b84fc7ae968e7',
+  'native_key' => 18,
+  'object' => '{"id":18,"source":1,"property_preprocess":0,"name":"scenRow","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<div class=\\"scen-item\\">\\n    <img src=\\"[[+image]]\\" alt=\\"[[+title]]\\">\\n    <p>[[+title]]<\\/p>\\n<\\/div>","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<div class=\\"scen-item\\">\\n    <img src=\\"[[+image]]\\" alt=\\"[[+title]]\\">\\n    <p>[[+title]]<\\/p>\\n<\\/div>"}',
+);

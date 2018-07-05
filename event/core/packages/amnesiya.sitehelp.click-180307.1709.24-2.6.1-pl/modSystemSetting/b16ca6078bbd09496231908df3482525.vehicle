@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '71948b793b820b221af9136b77e28ffc',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'b16ca6078bbd09496231908df3482525',
+  'native_key' => 'emailsender',
+  'object' => '{"key":"emailsender","value":"volga.pw@yandex.ru","xtype":"textfield","namespace":"core","area":"authentication","editedon":"2018-03-05 22:27:00"}',
+);

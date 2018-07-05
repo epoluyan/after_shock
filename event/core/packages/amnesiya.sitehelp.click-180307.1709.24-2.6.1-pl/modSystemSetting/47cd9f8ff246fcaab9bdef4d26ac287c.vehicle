@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7ddfc8969f19e7eac56e32a47182b80e',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '47cd9f8ff246fcaab9bdef4d26ac287c',
+  'native_key' => 'use_multibyte',
+  'object' => '{"key":"use_multibyte","value":"1","xtype":"combo-boolean","namespace":"core","area":"language","editedon":"2018-03-05 22:27:00"}',
+);

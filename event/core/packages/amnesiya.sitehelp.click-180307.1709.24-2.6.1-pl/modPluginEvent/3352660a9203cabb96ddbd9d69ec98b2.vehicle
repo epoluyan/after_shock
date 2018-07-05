@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '236f8a87a0c88a1734f87354aea72166',
+  'package' => 'modx',
+  'class' => 'modPluginEvent',
+  'signature' => '3352660a9203cabb96ddbd9d69ec98b2',
+  'native_key' => 
+  array (
+    0 => 6,
+    1 => 'OnRichTextBrowserInit',
+  ),
+  'object' => '{"pluginid":6,"event":"OnRichTextBrowserInit","priority":0,"propertyset":0}',
+);

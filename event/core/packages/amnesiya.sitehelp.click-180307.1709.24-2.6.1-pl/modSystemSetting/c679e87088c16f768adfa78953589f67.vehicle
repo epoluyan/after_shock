@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd448f8bcdb05cfb808a06264f347a870',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'c679e87088c16f768adfa78953589f67',
+  'native_key' => 'tiny.custom_buttons4',
+  'object' => '{"key":"tiny.custom_buttons4","value":"","xtype":"textfield","namespace":"tinymce","area":"custom-buttons","editedon":null}',
+);

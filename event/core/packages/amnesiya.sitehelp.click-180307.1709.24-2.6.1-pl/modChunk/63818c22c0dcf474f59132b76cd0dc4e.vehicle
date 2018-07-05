@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7ec29c16e07c308fff5d98d4fc73f4a2',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '63818c22c0dcf474f59132b76cd0dc4e',
+  'native_key' => 31,
+  'object' => '{"id":31,"source":1,"property_preprocess":0,"name":"gallery","description":"","editor_type":0,"category":14,"cache_type":0,"snippet":"<div class=\\"item\\"><img class=\\"owl-lazy\\" data-src=\\"[[+image:phpthumbon=`w=640&h=480&zc=0`]]\\"><\\/div>","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<div class=\\"item\\"><img class=\\"owl-lazy\\" data-src=\\"[[+image:phpthumbon=`w=640&h=480&zc=0`]]\\"><\\/div>"}',
+);

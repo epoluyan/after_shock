@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5ef31d3e0a31084b9f8f734bf4b5721e',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '392c9ef2ada7d13864cc9b22cef6d792',
+  'native_key' => 'use_frozen_parent_uris',
+  'object' => '{"key":"use_frozen_parent_uris","value":"1","xtype":"combo-boolean","namespace":"core","area":"furls","editedon":"2018-03-06 13:39:01"}',
+);

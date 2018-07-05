@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '10296b73c42473052b9978cf720808c7',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '3576718cdc3910878b2ec7247ecb5be0',
+  'native_key' => 156,
+  'object' => '{"id":156,"template":1,"name":"usergroup_view","description":"perm.usergroup_view_desc","value":1}',
+);

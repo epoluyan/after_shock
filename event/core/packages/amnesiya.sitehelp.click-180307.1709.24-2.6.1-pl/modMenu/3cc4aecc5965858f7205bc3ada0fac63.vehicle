@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '38e8f5e5cff6b54de6cc4f206dcf45fc',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '3cc4aecc5965858f7205bc3ada0fac63',
+  'native_key' => 'sources',
+  'object' => '{"text":"sources","parent":"media","action":"source","description":"sources_desc","icon":"","menuindex":1,"params":"","handler":"","permissions":"sources","namespace":"core"}',
+);

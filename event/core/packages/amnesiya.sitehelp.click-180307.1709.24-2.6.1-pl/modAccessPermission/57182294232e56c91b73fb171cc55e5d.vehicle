@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c0980ecbe7ebbfa72f35febf21b7c4b2',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '57182294232e56c91b73fb171cc55e5d',
+  'native_key' => 133,
+  'object' => '{"id":133,"template":1,"name":"save_template","description":"perm.save_template_desc","value":1}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '32e8c46bf344410479e07d0abff4d3de',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '76116e3204c7bb088b72441156c239d5',
+  'native_key' => 70,
+  'object' => '{"id":70,"template":1,"name":"logs","description":"perm.logs_desc","value":1}',
+);

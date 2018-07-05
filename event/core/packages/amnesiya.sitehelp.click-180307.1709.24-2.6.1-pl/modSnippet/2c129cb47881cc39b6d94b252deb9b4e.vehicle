@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '996b6296739f6779911c2019c0761ff5',
+  'package' => 'modx',
+  'class' => 'modSnippet',
+  'signature' => '2c129cb47881cc39b6d94b252deb9b4e',
+  'native_key' => 24,
+  'object' => '{"id":24,"source":0,"property_preprocess":0,"name":"preparedatewhere","description":"","editor_type":0,"category":2,"cache_type":0,"snippet":"$name = $modx->getOption(\'name\', $scriptProperties, \'\');\\n$date = $modx->getOption($name . \'_date\', $_REQUEST, \'\');\\n$dir = str_replace(\'T\', \' \', $modx->getOption($name . \'_dir\', $_REQUEST, \'\'));\\n\\nif (!empty($date) && !empty($dir) && $dir != \'all\') {\\n    switch ($dir) {\\n        case \'=\':\\n            $where = array(\\n            \'enddate:>=\' => strftime(\'%Y-%m-%d 00:00:00\',strtotime($date)),\\n            \'startdate:<=\' => strftime(\'%Y-%m-%d 23:59:59\',strtotime($date))\\n            );\\n            break;\\n        case \'>=\':\\n            $where = array(\\n            \'enddate:>=\' => strftime(\'%Y-%m-%d 00:00:00\',strtotime($date))\\n            );\\n            break;\\n        case \'<=\':\\n            $where = array(\\n            \'startdate:<=\' => strftime(\'%Y-%m-%d 23:59:59\',strtotime($date))\\n            );            \\n            break;\\n\\n    }\\n\\n    return $modx->toJson($where);\\n}","locked":0,"properties":"","moduleguid":"","static":0,"static_file":"","content":"$name = $modx->getOption(\'name\', $scriptProperties, \'\');\\n$date = $modx->getOption($name . \'_date\', $_REQUEST, \'\');\\n$dir = str_replace(\'T\', \' \', $modx->getOption($name . \'_dir\', $_REQUEST, \'\'));\\n\\nif (!empty($date) && !empty($dir) && $dir != \'all\') {\\n    switch ($dir) {\\n        case \'=\':\\n            $where = array(\\n            \'enddate:>=\' => strftime(\'%Y-%m-%d 00:00:00\',strtotime($date)),\\n            \'startdate:<=\' => strftime(\'%Y-%m-%d 23:59:59\',strtotime($date))\\n            );\\n            break;\\n        case \'>=\':\\n            $where = array(\\n            \'enddate:>=\' => strftime(\'%Y-%m-%d 00:00:00\',strtotime($date))\\n            );\\n            break;\\n        case \'<=\':\\n            $where = array(\\n            \'startdate:<=\' => strftime(\'%Y-%m-%d 23:59:59\',strtotime($date))\\n            );            \\n            break;\\n\\n    }\\n\\n    return $modx->toJson($where);\\n}"}',
+);

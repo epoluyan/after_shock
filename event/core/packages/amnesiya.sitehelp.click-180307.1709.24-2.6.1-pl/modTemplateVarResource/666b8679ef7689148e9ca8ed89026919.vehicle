@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '5196f8a103d8cdefb3792457e8eec67f',
+  'package' => 'modx',
+  'class' => 'modTemplateVarResource',
+  'signature' => '666b8679ef7689148e9ca8ed89026919',
+  'native_key' => 8,
+  'object' => '{"id":8,"tmplvarid":8,"contentid":1,"value":"[{\\"MIGX_id\\":\\"1\\",\\"title\\":\\"\\\\u041c\\\\u044b \\\\u0434\\\\u0435\\\\u043b\\\\u0430\\\\u043b\\\\u0438 \\\\u043a\\\\u0432\\\\u0435\\\\u0441\\\\u0442 <br> \\\\u0434\\\\u043b\\\\u044f \\\\u043e\\\\u0434\\\\u043d\\\\u043e\\\\u0433\\\\u043e \\\\u0447\\\\u0435\\\\u043b\\\\u043e\\\\u0432\\\\u0435\\\\u043a\\\\u0430\\",\\"image\\":\\"img\\\\\\/about-one.jpg\\"},{\\"MIGX_id\\":\\"2\\",\\"title\\":\\"\\\\u041c\\\\u044b \\\\u0434\\\\u0435\\\\u043b\\\\u0430\\\\u043b\\\\u0438 \\\\u043a\\\\u0432\\\\u0435\\\\u0441\\\\u0442 <br> \\\\u0434\\\\u043b\\\\u044f 300 \\\\u0447\\\\u0435\\\\u043b\\\\u043e\\\\u0432\\\\u0435\\\\u043a\\",\\"image\\":\\"img\\\\\\/about-300.jpg\\"}]"}',
+);

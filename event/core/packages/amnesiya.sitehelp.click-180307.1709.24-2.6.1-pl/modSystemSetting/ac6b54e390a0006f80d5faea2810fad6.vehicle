@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c5beb895644c00755919ab9398d8a55d',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'ac6b54e390a0006f80d5faea2810fad6',
+  'native_key' => 'tiny.entity_encoding',
+  'object' => '{"key":"tiny.entity_encoding","value":"named","xtype":"textfield","namespace":"tinymce","area":"cleanup-output","editedon":null}',
+);

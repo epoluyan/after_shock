@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '1e78c45aea453be930a2cea016f8fbad',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => 'f4ab0d9e247b50c3588b77279249c38b',
+  'native_key' => 48,
+  'object' => '{"id":48,"template":1,"name":"error_log_erase","description":"perm.error_log_erase_desc","value":1}',
+);

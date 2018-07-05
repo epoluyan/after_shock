@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '220c0d340e09f11c7e237f980e69a44b',
+  'package' => 'modx',
+  'class' => 'modEvent',
+  'signature' => '678d1801f50a2c92962d769245fc4fe0',
+  'native_key' => 'OnSiteRefresh',
+  'object' => '{"name":"OnSiteRefresh","service":1,"groupname":"System"}',
+);

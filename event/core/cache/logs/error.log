@@ -1,0 +1,632 @@
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 236) PHP warning: PDOStatement::execute(): MySQL server has gone away
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 236) PHP warning: PDOStatement::execute(): Error reading result set's header
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 811) modTemplateVar: Attempt to set NOT NULL field type to NULL
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 236) PHP warning: PDOStatement::execute(): MySQL server has gone away
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 236) PHP warning: PDOStatement::execute(): Error reading result set's header
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `session` (`id`, `access`, `data`) VALUES ('90d50d1fc31009a37f77d70f570b34b7', 1521099037, 'modx.user.0.resourceGroups|a:1:{s:3:\"web\";a:0:{}}modx.user.0.attributes|a:1:{s:3:\"web\";a:5:{s:16:\"modAccessContext\";a:1:{s:3:\"web\";a:1:{i:0;a:3:{s:9:\"principal\";i:0;s:9:\"authority\";s:1:\"0\";s:6:\"policy\";a:1:{s:4:\"load\";b:1;}}}}s:22:\"modAccessResourceGroup\";a:0:{}s:17:\"modAccessCategory\";a:0:{}s:28:\"sources.modAccessMediaSource\";a:0:{}s:18:\"modAccessNamespace\";a:0:{}}}modx.user.contextTokens|a:1:{s:3:\"mgr\";i:1;}modx.mgr.user.token|s:52:\"modx5a9ffa22686bd5.84763405_15aa53669c6b450.94898945\";modx.mgr.session.cookie.lifetime|i:604800;modx.mgr.user.config|a:0:{}newResourceTokens|a:3:{i:0;s:23:\"5aa536749c97d2.01513041\";i:1;s:23:\"5aa538dab97791.04966983\";i:2;s:23:\"5aa539adbdba40.08626550\";}')
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 811) modTemplateVar: Attempt to set NOT NULL field type to NULL
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 10:30:37] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `session` (`id`, `access`, `data`) VALUES ('90d50d1fc31009a37f77d70f570b34b7', 1521099037, 'modx.user.0.resourceGroups|a:1:{s:3:\"web\";a:0:{}}modx.user.0.attributes|a:1:{s:3:\"web\";a:5:{s:16:\"modAccessContext\";a:1:{s:3:\"web\";a:1:{i:0;a:3:{s:9:\"principal\";i:0;s:9:\"authority\";s:1:\"0\";s:6:\"policy\";a:1:{s:4:\"load\";b:1;}}}}s:22:\"modAccessResourceGroup\";a:0:{}s:17:\"modAccessCategory\";a:0:{}s:28:\"sources.modAccessMediaSource\";a:0:{}s:18:\"modAccessNamespace\";a:0:{}}}modx.user.contextTokens|a:1:{s:3:\"mgr\";i:1;}modx.mgr.user.token|s:52:\"modx5a9ffa22686bd5.84763405_15aa53669c6b450.94898945\";modx.mgr.session.cookie.lifetime|i:604800;modx.mgr.user.config|a:0:{}newResourceTokens|a:3:{i:0;s:23:\"5aa536749c97d2.01513041\";i:1;s:23:\"5aa538dab97791.04966983\";i:2;s:23:\"5aa539adbdba40.08626550\";}')
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:27:43] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-03-15 11:27:43] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoquery.class.php : 653) Could not construct or prepare query because it is invalid or could not connect: SELECT `modExtensionPackage`.`id`, `modExtensionPackage`.`namespace`, `modExtensionPackage`.`name`, `modExtensionPackage`.`path`, `modExtensionPackage`.`table_prefix`, `modExtensionPackage`.`service_class`, `modExtensionPackage`.`service_name`, `modExtensionPackage`.`created_at`, `modExtensionPackage`.`updated_at`, Namespace.path AS namespace_path FROM `extension_packages` AS `modExtensionPackage` JOIN `namespaces` `Namespace` ON `modExtensionPackage`.`namespace` =  `Namespace`.`name` ORDER BY namespace ASC 
+[2018-03-15 11:27:43] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-03-15 11:27:43] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoquery.class.php : 653) Could not construct or prepare query because it is invalid or could not connect: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `session` AS `modSession` WHERE `modSession`.`id` = ? 
+[2018-03-15 11:27:43] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-03-15 11:27:43] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `session` AS `modSession` WHERE `modSession`.`id` = ?  - 
+[2018-03-15 11:27:43] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-03-15 11:27:43] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoquery.class.php : 653) Could not construct or prepare query because it is invalid or could not connect: SELECT `modTemplateVar`.`id` AS `modTemplateVar_id`, `modTemplateVar`.`source` AS `modTemplateVar_source`, `modTemplateVar`.`property_preprocess` AS `modTemplateVar_property_preprocess`, `modTemplateVar`.`type` AS `modTemplateVar_type`, `modTemplateVar`.`name` AS `modTemplateVar_name`, `modTemplateVar`.`caption` AS `modTemplateVar_caption`, `modTemplateVar`.`description` AS `modTemplateVar_description`, `modTemplateVar`.`editor_type` AS `modTemplateVar_editor_type`, `modTemplateVar`.`category` AS `modTemplateVar_category`, `modTemplateVar`.`locked` AS `modTemplateVar_locked`, `modTemplateVar`.`elements` AS `modTemplateVar_elements`, `modTemplateVar`.`rank` AS `modTemplateVar_rank`, `modTemplateVar`.`display` AS `modTemplateVar_display`, `modTemplateVar`.`default_text` AS `modTemplateVar_default_text`, `modTemplateVar`.`properties` AS `modTemplateVar_properties`, `modTemplateVar`.`input_properties` AS `modTemplateVar_input_properties`, `modTemplateVar`.`output_properties` AS `modTemplateVar_output_properties`, `modTemplateVar`.`static` AS `modTemplateVar_static`, `modTemplateVar`.`static_file` AS `modTemplateVar_static_file` FROM `site_tmplvars` AS `modTemplateVar` WHERE `modTemplateVar`.`name` = ? 
+[2018-03-15 11:27:43] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-03-15 11:27:43] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modTemplateVar`.`id` AS `modTemplateVar_id`, `modTemplateVar`.`source` AS `modTemplateVar_source`, `modTemplateVar`.`property_preprocess` AS `modTemplateVar_property_preprocess`, `modTemplateVar`.`type` AS `modTemplateVar_type`, `modTemplateVar`.`name` AS `modTemplateVar_name`, `modTemplateVar`.`caption` AS `modTemplateVar_caption`, `modTemplateVar`.`description` AS `modTemplateVar_description`, `modTemplateVar`.`editor_type` AS `modTemplateVar_editor_type`, `modTemplateVar`.`category` AS `modTemplateVar_category`, `modTemplateVar`.`locked` AS `modTemplateVar_locked`, `modTemplateVar`.`elements` AS `modTemplateVar_elements`, `modTemplateVar`.`rank` AS `modTemplateVar_rank`, `modTemplateVar`.`display` AS `modTemplateVar_display`, `modTemplateVar`.`default_text` AS `modTemplateVar_default_text`, `modTemplateVar`.`properties` AS `modTemplateVar_properties`, `modTemplateVar`.`input_properties` AS `modTemplateVar_input_properties`, `modTemplateVar`.`output_properties` AS `modTemplateVar_output_properties`, `modTemplateVar`.`static` AS `modTemplateVar_static`, `modTemplateVar`.`static_file` AS `modTemplateVar_static_file` FROM `site_tmplvars` AS `modTemplateVar` WHERE `modTemplateVar`.`name` = ?  - 
+[2018-03-15 11:27:43] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-03-15 11:27:43] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoquery.class.php : 653) Could not construct or prepare query because it is invalid or could not connect: SELECT `modTemplateVar`.`id` AS `modTemplateVar_id`, `modTemplateVar`.`source` AS `modTemplateVar_source`, `modTemplateVar`.`property_preprocess` AS `modTemplateVar_property_preprocess`, `modTemplateVar`.`type` AS `modTemplateVar_type`, `modTemplateVar`.`name` AS `modTemplateVar_name`, `modTemplateVar`.`caption` AS `modTemplateVar_caption`, `modTemplateVar`.`description` AS `modTemplateVar_description`, `modTemplateVar`.`editor_type` AS `modTemplateVar_editor_type`, `modTemplateVar`.`category` AS `modTemplateVar_category`, `modTemplateVar`.`locked` AS `modTemplateVar_locked`, `modTemplateVar`.`elements` AS `modTemplateVar_elements`, `modTemplateVar`.`rank` AS `modTemplateVar_rank`, `modTemplateVar`.`display` AS `modTemplateVar_display`, `modTemplateVar`.`default_text` AS `modTemplateVar_default_text`, `modTemplateVar`.`properties` AS `modTemplateVar_properties`, `modTemplateVar`.`input_properties` AS `modTemplateVar_input_properties`, `modTemplateVar`.`output_properties` AS `modTemplateVar_output_properties`, `modTemplateVar`.`static` AS `modTemplateVar_static`, `modTemplateVar`.`static_file` AS `modTemplateVar_static_file` FROM `site_tmplvars` AS `modTemplateVar` WHERE `modTemplateVar`.`name` = ? 
+[2018-03-15 11:27:43] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-03-15 11:27:43] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modTemplateVar`.`id` AS `modTemplateVar_id`, `modTemplateVar`.`source` AS `modTemplateVar_source`, `modTemplateVar`.`property_preprocess` AS `modTemplateVar_property_preprocess`, `modTemplateVar`.`type` AS `modTemplateVar_type`, `modTemplateVar`.`name` AS `modTemplateVar_name`, `modTemplateVar`.`caption` AS `modTemplateVar_caption`, `modTemplateVar`.`description` AS `modTemplateVar_description`, `modTemplateVar`.`editor_type` AS `modTemplateVar_editor_type`, `modTemplateVar`.`category` AS `modTemplateVar_category`, `modTemplateVar`.`locked` AS `modTemplateVar_locked`, `modTemplateVar`.`elements` AS `modTemplateVar_elements`, `modTemplateVar`.`rank` AS `modTemplateVar_rank`, `modTemplateVar`.`display` AS `modTemplateVar_display`, `modTemplateVar`.`default_text` AS `modTemplateVar_default_text`, `modTemplateVar`.`properties` AS `modTemplateVar_properties`, `modTemplateVar`.`input_properties` AS `modTemplateVar_input_properties`, `modTemplateVar`.`output_properties` AS `modTemplateVar_output_properties`, `modTemplateVar`.`static` AS `modTemplateVar_static`, `modTemplateVar`.`static_file` AS `modTemplateVar_static_file` FROM `site_tmplvars` AS `modTemplateVar` WHERE `modTemplateVar`.`name` = ?  - 
+[2018-03-15 11:27:43] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-03-15 11:27:43] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoquery.class.php : 653) Could not construct or prepare query because it is invalid or could not connect: SELECT `modTemplateVar`.`id` AS `modTemplateVar_id`, `modTemplateVar`.`source` AS `modTemplateVar_source`, `modTemplateVar`.`property_preprocess` AS `modTemplateVar_property_preprocess`, `modTemplateVar`.`type` AS `modTemplateVar_type`, `modTemplateVar`.`name` AS `modTemplateVar_name`, `modTemplateVar`.`caption` AS `modTemplateVar_caption`, `modTemplateVar`.`description` AS `modTemplateVar_description`, `modTemplateVar`.`editor_type` AS `modTemplateVar_editor_type`, `modTemplateVar`.`category` AS `modTemplateVar_category`, `modTemplateVar`.`locked` AS `modTemplateVar_locked`, `modTemplateVar`.`elements` AS `modTemplateVar_elements`, `modTemplateVar`.`rank` AS `modTemplateVar_rank`, `modTemplateVar`.`display` AS `modTemplateVar_display`, `modTemplateVar`.`default_text` AS `modTemplateVar_default_text`, `modTemplateVar`.`properties` AS `modTemplateVar_properties`, `modTemplateVar`.`input_properties` AS `modTemplateVar_input_properties`, `modTemplateVar`.`output_properties` AS `modTemplateVar_output_properties`, `modTemplateVar`.`static` AS `modTemplateVar_static`, `modTemplateVar`.`static_file` AS `modTemplateVar_static_file` FROM `site_tmplvars` AS `modTemplateVar` WHERE `modTemplateVar`.`name` = ? 
+[2018-03-15 11:27:43] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-03-15 11:27:43] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modTemplateVar`.`id` AS `modTemplateVar_id`, `modTemplateVar`.`source` AS `modTemplateVar_source`, `modTemplateVar`.`property_preprocess` AS `modTemplateVar_property_preprocess`, `modTemplateVar`.`type` AS `modTemplateVar_type`, `modTemplateVar`.`name` AS `modTemplateVar_name`, `modTemplateVar`.`caption` AS `modTemplateVar_caption`, `modTemplateVar`.`description` AS `modTemplateVar_description`, `modTemplateVar`.`editor_type` AS `modTemplateVar_editor_type`, `modTemplateVar`.`category` AS `modTemplateVar_category`, `modTemplateVar`.`locked` AS `modTemplateVar_locked`, `modTemplateVar`.`elements` AS `modTemplateVar_elements`, `modTemplateVar`.`rank` AS `modTemplateVar_rank`, `modTemplateVar`.`display` AS `modTemplateVar_display`, `modTemplateVar`.`default_text` AS `modTemplateVar_default_text`, `modTemplateVar`.`properties` AS `modTemplateVar_properties`, `modTemplateVar`.`input_properties` AS `modTemplateVar_input_properties`, `modTemplateVar`.`output_properties` AS `modTemplateVar_output_properties`, `modTemplateVar`.`static` AS `modTemplateVar_static`, `modTemplateVar`.`static_file` AS `modTemplateVar_static_file` FROM `site_tmplvars` AS `modTemplateVar` WHERE `modTemplateVar`.`name` = ?  - 
+[2018-03-15 11:27:43] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-03-15 11:27:43] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoquery.class.php : 653) Could not construct or prepare query because it is invalid or could not connect: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `session` AS `modSession` WHERE `modSession`.`id` = ? 
+[2018-03-15 11:27:43] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-03-15 11:27:43] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `session` AS `modSession` WHERE `modSession`.`id` = ?  - 
+[2018-03-15 11:27:43] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-03-15 11:27:43] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 236) PHP warning: PDOStatement::execute(): MySQL server has gone away
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 236) PHP warning: PDOStatement::execute(): Error reading result set's header
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 811) modTemplateVar: Attempt to set NOT NULL field type to NULL
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `session` (`id`, `access`, `data`) VALUES ('90d50d1fc31009a37f77d70f570b34b7', 1521102635, 'modx.user.0.resourceGroups|a:1:{s:3:\"web\";a:0:{}}modx.user.0.attributes|a:1:{s:3:\"web\";a:5:{s:16:\"modAccessContext\";a:1:{s:3:\"web\";a:1:{i:0;a:3:{s:9:\"principal\";i:0;s:9:\"authority\";s:1:\"0\";s:6:\"policy\";a:1:{s:4:\"load\";b:1;}}}}s:22:\"modAccessResourceGroup\";a:0:{}s:17:\"modAccessCategory\";a:0:{}s:28:\"sources.modAccessMediaSource\";a:0:{}s:18:\"modAccessNamespace\";a:0:{}}}modx.user.contextTokens|a:1:{s:3:\"mgr\";i:1;}modx.mgr.user.token|s:52:\"modx5a9ffa22686bd5.84763405_15aa53669c6b450.94898945\";modx.mgr.session.cookie.lifetime|i:604800;modx.mgr.user.config|a:0:{}newResourceTokens|a:3:{i:0;s:23:\"5aa536749c97d2.01513041\";i:1;s:23:\"5aa538dab97791.04966983\";i:2;s:23:\"5aa539adbdba40.08626550\";}')
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 236) PHP warning: PDOStatement::execute(): MySQL server has gone away
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 236) PHP warning: PDOStatement::execute(): Error reading result set's header
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 811) modTemplateVar: Attempt to set NOT NULL field type to NULL
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 236) PHP warning: PDOStatement::execute(): MySQL server has gone away
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 236) PHP warning: PDOStatement::execute(): Error reading result set's header
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 236) PHP warning: PDOStatement::execute(): MySQL server has gone away
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 236) PHP warning: PDOStatement::execute(): Error reading result set's header
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 811) modTemplateVar: Attempt to set NOT NULL field type to NULL
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 811) modTemplateVar: Attempt to set NOT NULL field type to NULL
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `session` (`id`, `access`, `data`) VALUES ('d41ce9bc18541f97f09d525a4f75825a', 1521102635, 'modx.user.0.resourceGroups|a:1:{s:3:\"web\";a:0:{}}modx.user.0.attributes|a:1:{s:3:\"web\";a:5:{s:16:\"modAccessContext\";a:1:{s:3:\"web\";a:1:{i:0;a:3:{s:9:\"principal\";i:0;s:9:\"authority\";s:1:\"0\";s:6:\"policy\";a:1:{s:4:\"load\";b:1;}}}}s:22:\"modAccessResourceGroup\";a:0:{}s:17:\"modAccessCategory\";a:0:{}s:28:\"sources.modAccessMediaSource\";a:0:{}s:18:\"modAccessNamespace\";a:0:{}}}modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 240) Error HY000 executing statement: 
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `session` (`id`, `access`, `data`) VALUES ('d41ce9bc18541f97f09d525a4f75825a', 1521102635, 'modx.user.0.resourceGroups|a:1:{s:3:\"web\";a:0:{}}modx.user.0.attributes|a:1:{s:3:\"web\";a:5:{s:16:\"modAccessContext\";a:1:{s:3:\"web\";a:1:{i:0;a:3:{s:9:\"principal\";i:0;s:9:\"authority\";s:1:\"0\";s:6:\"policy\";a:1:{s:4:\"load\";b:1;}}}}s:22:\"modAccessResourceGroup\";a:0:{}s:17:\"modAccessCategory\";a:0:{}s:28:\"sources.modAccessMediaSource\";a:0:{}s:18:\"modAccessNamespace\";a:0:{}}}modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-03-15 11:30:35] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 1452) Error HY000 executing statement:
+INSERT INTO `session` (`id`, `access`, `data`) VALUES ('90d50d1fc31009a37f77d70f570b34b7', 1521102635, 'modx.user.0.resourceGroups|a:1:{s:3:\"web\";a:0:{}}modx.user.0.attributes|a:1:{s:3:\"web\";a:5:{s:16:\"modAccessContext\";a:1:{s:3:\"web\";a:1:{i:0;a:3:{s:9:\"principal\";i:0;s:9:\"authority\";s:1:\"0\";s:6:\"policy\";a:1:{s:4:\"load\";b:1;}}}}s:22:\"modAccessResourceGroup\";a:0:{}s:17:\"modAccessCategory\";a:0:{}s:28:\"sources.modAccessMediaSource\";a:0:{}s:18:\"modAccessNamespace\";a:0:{}}}modx.user.contextTokens|a:1:{s:3:\"mgr\";i:1;}modx.mgr.user.token|s:52:\"modx5a9ffa22686bd5.84763405_15aa53669c6b450.94898945\";modx.mgr.session.cookie.lifetime|i:604800;modx.mgr.user.config|a:0:{}newResourceTokens|a:3:{i:0;s:23:\"5aa536749c97d2.01513041\";i:1;s:23:\"5aa538dab97791.04966983\";i:2;s:23:\"5aa539adbdba40.08626550\";}')
+Array
+(
+    [0] => HY000
+    [1] => 2006
+    [2] => MySQL server has gone away
+)
+
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[08004] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoquery.class.php : 653) Could not construct or prepare query because it is invalid or could not connect: SELECT `modExtensionPackage`.`id`, `modExtensionPackage`.`namespace`, `modExtensionPackage`.`name`, `modExtensionPackage`.`path`, `modExtensionPackage`.`table_prefix`, `modExtensionPackage`.`service_class`, `modExtensionPackage`.`service_name`, `modExtensionPackage`.`created_at`, `modExtensionPackage`.`updated_at`, Namespace.path AS namespace_path FROM `extension_packages` AS `modExtensionPackage` JOIN `namespaces` `Namespace` ON `modExtensionPackage`.`namespace` =  `Namespace`.`name` ORDER BY namespace ASC 
+[2018-04-01 16:16:04] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoquery.class.php : 653) Could not construct or prepare query because it is invalid or could not connect: SELECT `modExtensionPackage`.`id`, `modExtensionPackage`.`namespace`, `modExtensionPackage`.`name`, `modExtensionPackage`.`path`, `modExtensionPackage`.`table_prefix`, `modExtensionPackage`.`service_class`, `modExtensionPackage`.`service_name`, `modExtensionPackage`.`created_at`, `modExtensionPackage`.`updated_at`, Namespace.path AS namespace_path FROM `extension_packages` AS `modExtensionPackage` JOIN `namespaces` `Namespace` ON `modExtensionPackage`.`namespace` =  `Namespace`.`name` ORDER BY namespace ASC 
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[08004] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoquery.class.php : 653) Could not construct or prepare query because it is invalid or could not connect: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `session` AS `modSession` WHERE `modSession`.`id` = ? 
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoquery.class.php : 653) Could not construct or prepare query because it is invalid or could not connect: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `session` AS `modSession` WHERE `modSession`.`id` = ? 
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[08004] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `session` AS `modSession` WHERE `modSession`.`id` = ?  - 
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `session` AS `modSession` WHERE `modSession`.`id` = ?  - 
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[08004] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoquery.class.php : 653) Could not construct or prepare query because it is invalid or could not connect: SELECT `modTemplateVar`.`id` AS `modTemplateVar_id`, `modTemplateVar`.`source` AS `modTemplateVar_source`, `modTemplateVar`.`property_preprocess` AS `modTemplateVar_property_preprocess`, `modTemplateVar`.`type` AS `modTemplateVar_type`, `modTemplateVar`.`name` AS `modTemplateVar_name`, `modTemplateVar`.`caption` AS `modTemplateVar_caption`, `modTemplateVar`.`description` AS `modTemplateVar_description`, `modTemplateVar`.`editor_type` AS `modTemplateVar_editor_type`, `modTemplateVar`.`category` AS `modTemplateVar_category`, `modTemplateVar`.`locked` AS `modTemplateVar_locked`, `modTemplateVar`.`elements` AS `modTemplateVar_elements`, `modTemplateVar`.`rank` AS `modTemplateVar_rank`, `modTemplateVar`.`display` AS `modTemplateVar_display`, `modTemplateVar`.`default_text` AS `modTemplateVar_default_text`, `modTemplateVar`.`properties` AS `modTemplateVar_properties`, `modTemplateVar`.`input_properties` AS `modTemplateVar_input_properties`, `modTemplateVar`.`output_properties` AS `modTemplateVar_output_properties`, `modTemplateVar`.`static` AS `modTemplateVar_static`, `modTemplateVar`.`static_file` AS `modTemplateVar_static_file` FROM `site_tmplvars` AS `modTemplateVar` WHERE `modTemplateVar`.`name` = ? 
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoquery.class.php : 653) Could not construct or prepare query because it is invalid or could not connect: SELECT `modTemplateVar`.`id` AS `modTemplateVar_id`, `modTemplateVar`.`source` AS `modTemplateVar_source`, `modTemplateVar`.`property_preprocess` AS `modTemplateVar_property_preprocess`, `modTemplateVar`.`type` AS `modTemplateVar_type`, `modTemplateVar`.`name` AS `modTemplateVar_name`, `modTemplateVar`.`caption` AS `modTemplateVar_caption`, `modTemplateVar`.`description` AS `modTemplateVar_description`, `modTemplateVar`.`editor_type` AS `modTemplateVar_editor_type`, `modTemplateVar`.`category` AS `modTemplateVar_category`, `modTemplateVar`.`locked` AS `modTemplateVar_locked`, `modTemplateVar`.`elements` AS `modTemplateVar_elements`, `modTemplateVar`.`rank` AS `modTemplateVar_rank`, `modTemplateVar`.`display` AS `modTemplateVar_display`, `modTemplateVar`.`default_text` AS `modTemplateVar_default_text`, `modTemplateVar`.`properties` AS `modTemplateVar_properties`, `modTemplateVar`.`input_properties` AS `modTemplateVar_input_properties`, `modTemplateVar`.`output_properties` AS `modTemplateVar_output_properties`, `modTemplateVar`.`static` AS `modTemplateVar_static`, `modTemplateVar`.`static_file` AS `modTemplateVar_static_file` FROM `site_tmplvars` AS `modTemplateVar` WHERE `modTemplateVar`.`name` = ? 
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[08004] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modTemplateVar`.`id` AS `modTemplateVar_id`, `modTemplateVar`.`source` AS `modTemplateVar_source`, `modTemplateVar`.`property_preprocess` AS `modTemplateVar_property_preprocess`, `modTemplateVar`.`type` AS `modTemplateVar_type`, `modTemplateVar`.`name` AS `modTemplateVar_name`, `modTemplateVar`.`caption` AS `modTemplateVar_caption`, `modTemplateVar`.`description` AS `modTemplateVar_description`, `modTemplateVar`.`editor_type` AS `modTemplateVar_editor_type`, `modTemplateVar`.`category` AS `modTemplateVar_category`, `modTemplateVar`.`locked` AS `modTemplateVar_locked`, `modTemplateVar`.`elements` AS `modTemplateVar_elements`, `modTemplateVar`.`rank` AS `modTemplateVar_rank`, `modTemplateVar`.`display` AS `modTemplateVar_display`, `modTemplateVar`.`default_text` AS `modTemplateVar_default_text`, `modTemplateVar`.`properties` AS `modTemplateVar_properties`, `modTemplateVar`.`input_properties` AS `modTemplateVar_input_properties`, `modTemplateVar`.`output_properties` AS `modTemplateVar_output_properties`, `modTemplateVar`.`static` AS `modTemplateVar_static`, `modTemplateVar`.`static_file` AS `modTemplateVar_static_file` FROM `site_tmplvars` AS `modTemplateVar` WHERE `modTemplateVar`.`name` = ?  - 
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[08004] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoquery.class.php : 653) Could not construct or prepare query because it is invalid or could not connect: SELECT `modTemplateVar`.`id` AS `modTemplateVar_id`, `modTemplateVar`.`source` AS `modTemplateVar_source`, `modTemplateVar`.`property_preprocess` AS `modTemplateVar_property_preprocess`, `modTemplateVar`.`type` AS `modTemplateVar_type`, `modTemplateVar`.`name` AS `modTemplateVar_name`, `modTemplateVar`.`caption` AS `modTemplateVar_caption`, `modTemplateVar`.`description` AS `modTemplateVar_description`, `modTemplateVar`.`editor_type` AS `modTemplateVar_editor_type`, `modTemplateVar`.`category` AS `modTemplateVar_category`, `modTemplateVar`.`locked` AS `modTemplateVar_locked`, `modTemplateVar`.`elements` AS `modTemplateVar_elements`, `modTemplateVar`.`rank` AS `modTemplateVar_rank`, `modTemplateVar`.`display` AS `modTemplateVar_display`, `modTemplateVar`.`default_text` AS `modTemplateVar_default_text`, `modTemplateVar`.`properties` AS `modTemplateVar_properties`, `modTemplateVar`.`input_properties` AS `modTemplateVar_input_properties`, `modTemplateVar`.`output_properties` AS `modTemplateVar_output_properties`, `modTemplateVar`.`static` AS `modTemplateVar_static`, `modTemplateVar`.`static_file` AS `modTemplateVar_static_file` FROM `site_tmplvars` AS `modTemplateVar` WHERE `modTemplateVar`.`name` = ? 
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[08004] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modTemplateVar`.`id` AS `modTemplateVar_id`, `modTemplateVar`.`source` AS `modTemplateVar_source`, `modTemplateVar`.`property_preprocess` AS `modTemplateVar_property_preprocess`, `modTemplateVar`.`type` AS `modTemplateVar_type`, `modTemplateVar`.`name` AS `modTemplateVar_name`, `modTemplateVar`.`caption` AS `modTemplateVar_caption`, `modTemplateVar`.`description` AS `modTemplateVar_description`, `modTemplateVar`.`editor_type` AS `modTemplateVar_editor_type`, `modTemplateVar`.`category` AS `modTemplateVar_category`, `modTemplateVar`.`locked` AS `modTemplateVar_locked`, `modTemplateVar`.`elements` AS `modTemplateVar_elements`, `modTemplateVar`.`rank` AS `modTemplateVar_rank`, `modTemplateVar`.`display` AS `modTemplateVar_display`, `modTemplateVar`.`default_text` AS `modTemplateVar_default_text`, `modTemplateVar`.`properties` AS `modTemplateVar_properties`, `modTemplateVar`.`input_properties` AS `modTemplateVar_input_properties`, `modTemplateVar`.`output_properties` AS `modTemplateVar_output_properties`, `modTemplateVar`.`static` AS `modTemplateVar_static`, `modTemplateVar`.`static_file` AS `modTemplateVar_static_file` FROM `site_tmplvars` AS `modTemplateVar` WHERE `modTemplateVar`.`name` = ?  - 
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modTemplateVar`.`id` AS `modTemplateVar_id`, `modTemplateVar`.`source` AS `modTemplateVar_source`, `modTemplateVar`.`property_preprocess` AS `modTemplateVar_property_preprocess`, `modTemplateVar`.`type` AS `modTemplateVar_type`, `modTemplateVar`.`name` AS `modTemplateVar_name`, `modTemplateVar`.`caption` AS `modTemplateVar_caption`, `modTemplateVar`.`description` AS `modTemplateVar_description`, `modTemplateVar`.`editor_type` AS `modTemplateVar_editor_type`, `modTemplateVar`.`category` AS `modTemplateVar_category`, `modTemplateVar`.`locked` AS `modTemplateVar_locked`, `modTemplateVar`.`elements` AS `modTemplateVar_elements`, `modTemplateVar`.`rank` AS `modTemplateVar_rank`, `modTemplateVar`.`display` AS `modTemplateVar_display`, `modTemplateVar`.`default_text` AS `modTemplateVar_default_text`, `modTemplateVar`.`properties` AS `modTemplateVar_properties`, `modTemplateVar`.`input_properties` AS `modTemplateVar_input_properties`, `modTemplateVar`.`output_properties` AS `modTemplateVar_output_properties`, `modTemplateVar`.`static` AS `modTemplateVar_static`, `modTemplateVar`.`static_file` AS `modTemplateVar_static_file` FROM `site_tmplvars` AS `modTemplateVar` WHERE `modTemplateVar`.`name` = ?  - 
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[08004] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoquery.class.php : 653) Could not construct or prepare query because it is invalid or could not connect: SELECT `modTemplateVar`.`id` AS `modTemplateVar_id`, `modTemplateVar`.`source` AS `modTemplateVar_source`, `modTemplateVar`.`property_preprocess` AS `modTemplateVar_property_preprocess`, `modTemplateVar`.`type` AS `modTemplateVar_type`, `modTemplateVar`.`name` AS `modTemplateVar_name`, `modTemplateVar`.`caption` AS `modTemplateVar_caption`, `modTemplateVar`.`description` AS `modTemplateVar_description`, `modTemplateVar`.`editor_type` AS `modTemplateVar_editor_type`, `modTemplateVar`.`category` AS `modTemplateVar_category`, `modTemplateVar`.`locked` AS `modTemplateVar_locked`, `modTemplateVar`.`elements` AS `modTemplateVar_elements`, `modTemplateVar`.`rank` AS `modTemplateVar_rank`, `modTemplateVar`.`display` AS `modTemplateVar_display`, `modTemplateVar`.`default_text` AS `modTemplateVar_default_text`, `modTemplateVar`.`properties` AS `modTemplateVar_properties`, `modTemplateVar`.`input_properties` AS `modTemplateVar_input_properties`, `modTemplateVar`.`output_properties` AS `modTemplateVar_output_properties`, `modTemplateVar`.`static` AS `modTemplateVar_static`, `modTemplateVar`.`static_file` AS `modTemplateVar_static_file` FROM `site_tmplvars` AS `modTemplateVar` WHERE `modTemplateVar`.`name` = ? 
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoquery.class.php : 653) Could not construct or prepare query because it is invalid or could not connect: SELECT `modTemplateVar`.`id` AS `modTemplateVar_id`, `modTemplateVar`.`source` AS `modTemplateVar_source`, `modTemplateVar`.`property_preprocess` AS `modTemplateVar_property_preprocess`, `modTemplateVar`.`type` AS `modTemplateVar_type`, `modTemplateVar`.`name` AS `modTemplateVar_name`, `modTemplateVar`.`caption` AS `modTemplateVar_caption`, `modTemplateVar`.`description` AS `modTemplateVar_description`, `modTemplateVar`.`editor_type` AS `modTemplateVar_editor_type`, `modTemplateVar`.`category` AS `modTemplateVar_category`, `modTemplateVar`.`locked` AS `modTemplateVar_locked`, `modTemplateVar`.`elements` AS `modTemplateVar_elements`, `modTemplateVar`.`rank` AS `modTemplateVar_rank`, `modTemplateVar`.`display` AS `modTemplateVar_display`, `modTemplateVar`.`default_text` AS `modTemplateVar_default_text`, `modTemplateVar`.`properties` AS `modTemplateVar_properties`, `modTemplateVar`.`input_properties` AS `modTemplateVar_input_properties`, `modTemplateVar`.`output_properties` AS `modTemplateVar_output_properties`, `modTemplateVar`.`static` AS `modTemplateVar_static`, `modTemplateVar`.`static_file` AS `modTemplateVar_static_file` FROM `site_tmplvars` AS `modTemplateVar` WHERE `modTemplateVar`.`name` = ? 
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modTemplateVar`.`id` AS `modTemplateVar_id`, `modTemplateVar`.`source` AS `modTemplateVar_source`, `modTemplateVar`.`property_preprocess` AS `modTemplateVar_property_preprocess`, `modTemplateVar`.`type` AS `modTemplateVar_type`, `modTemplateVar`.`name` AS `modTemplateVar_name`, `modTemplateVar`.`caption` AS `modTemplateVar_caption`, `modTemplateVar`.`description` AS `modTemplateVar_description`, `modTemplateVar`.`editor_type` AS `modTemplateVar_editor_type`, `modTemplateVar`.`category` AS `modTemplateVar_category`, `modTemplateVar`.`locked` AS `modTemplateVar_locked`, `modTemplateVar`.`elements` AS `modTemplateVar_elements`, `modTemplateVar`.`rank` AS `modTemplateVar_rank`, `modTemplateVar`.`display` AS `modTemplateVar_display`, `modTemplateVar`.`default_text` AS `modTemplateVar_default_text`, `modTemplateVar`.`properties` AS `modTemplateVar_properties`, `modTemplateVar`.`input_properties` AS `modTemplateVar_input_properties`, `modTemplateVar`.`output_properties` AS `modTemplateVar_output_properties`, `modTemplateVar`.`static` AS `modTemplateVar_static`, `modTemplateVar`.`static_file` AS `modTemplateVar_static_file` FROM `site_tmplvars` AS `modTemplateVar` WHERE `modTemplateVar`.`name` = ?  - 
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modTemplateVar`.`id` AS `modTemplateVar_id`, `modTemplateVar`.`source` AS `modTemplateVar_source`, `modTemplateVar`.`property_preprocess` AS `modTemplateVar_property_preprocess`, `modTemplateVar`.`type` AS `modTemplateVar_type`, `modTemplateVar`.`name` AS `modTemplateVar_name`, `modTemplateVar`.`caption` AS `modTemplateVar_caption`, `modTemplateVar`.`description` AS `modTemplateVar_description`, `modTemplateVar`.`editor_type` AS `modTemplateVar_editor_type`, `modTemplateVar`.`category` AS `modTemplateVar_category`, `modTemplateVar`.`locked` AS `modTemplateVar_locked`, `modTemplateVar`.`elements` AS `modTemplateVar_elements`, `modTemplateVar`.`rank` AS `modTemplateVar_rank`, `modTemplateVar`.`display` AS `modTemplateVar_display`, `modTemplateVar`.`default_text` AS `modTemplateVar_default_text`, `modTemplateVar`.`properties` AS `modTemplateVar_properties`, `modTemplateVar`.`input_properties` AS `modTemplateVar_input_properties`, `modTemplateVar`.`output_properties` AS `modTemplateVar_output_properties`, `modTemplateVar`.`static` AS `modTemplateVar_static`, `modTemplateVar`.`static_file` AS `modTemplateVar_static_file` FROM `site_tmplvars` AS `modTemplateVar` WHERE `modTemplateVar`.`name` = ?  - 
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoquery.class.php : 653) Could not construct or prepare query because it is invalid or could not connect: SELECT `modTemplateVar`.`id` AS `modTemplateVar_id`, `modTemplateVar`.`source` AS `modTemplateVar_source`, `modTemplateVar`.`property_preprocess` AS `modTemplateVar_property_preprocess`, `modTemplateVar`.`type` AS `modTemplateVar_type`, `modTemplateVar`.`name` AS `modTemplateVar_name`, `modTemplateVar`.`caption` AS `modTemplateVar_caption`, `modTemplateVar`.`description` AS `modTemplateVar_description`, `modTemplateVar`.`editor_type` AS `modTemplateVar_editor_type`, `modTemplateVar`.`category` AS `modTemplateVar_category`, `modTemplateVar`.`locked` AS `modTemplateVar_locked`, `modTemplateVar`.`elements` AS `modTemplateVar_elements`, `modTemplateVar`.`rank` AS `modTemplateVar_rank`, `modTemplateVar`.`display` AS `modTemplateVar_display`, `modTemplateVar`.`default_text` AS `modTemplateVar_default_text`, `modTemplateVar`.`properties` AS `modTemplateVar_properties`, `modTemplateVar`.`input_properties` AS `modTemplateVar_input_properties`, `modTemplateVar`.`output_properties` AS `modTemplateVar_output_properties`, `modTemplateVar`.`static` AS `modTemplateVar_static`, `modTemplateVar`.`static_file` AS `modTemplateVar_static_file` FROM `site_tmplvars` AS `modTemplateVar` WHERE `modTemplateVar`.`name` = ? 
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[08004] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modTemplateVar`.`id` AS `modTemplateVar_id`, `modTemplateVar`.`source` AS `modTemplateVar_source`, `modTemplateVar`.`property_preprocess` AS `modTemplateVar_property_preprocess`, `modTemplateVar`.`type` AS `modTemplateVar_type`, `modTemplateVar`.`name` AS `modTemplateVar_name`, `modTemplateVar`.`caption` AS `modTemplateVar_caption`, `modTemplateVar`.`description` AS `modTemplateVar_description`, `modTemplateVar`.`editor_type` AS `modTemplateVar_editor_type`, `modTemplateVar`.`category` AS `modTemplateVar_category`, `modTemplateVar`.`locked` AS `modTemplateVar_locked`, `modTemplateVar`.`elements` AS `modTemplateVar_elements`, `modTemplateVar`.`rank` AS `modTemplateVar_rank`, `modTemplateVar`.`display` AS `modTemplateVar_display`, `modTemplateVar`.`default_text` AS `modTemplateVar_default_text`, `modTemplateVar`.`properties` AS `modTemplateVar_properties`, `modTemplateVar`.`input_properties` AS `modTemplateVar_input_properties`, `modTemplateVar`.`output_properties` AS `modTemplateVar_output_properties`, `modTemplateVar`.`static` AS `modTemplateVar_static`, `modTemplateVar`.`static_file` AS `modTemplateVar_static_file` FROM `site_tmplvars` AS `modTemplateVar` WHERE `modTemplateVar`.`name` = ?  - 
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoquery.class.php : 653) Could not construct or prepare query because it is invalid or could not connect: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `session` AS `modSession` WHERE `modSession`.`id` = ? 
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `session` AS `modSession` WHERE `modSession`.`id` = ?  - 
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[08004] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoquery.class.php : 653) Could not construct or prepare query because it is invalid or could not connect: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `session` AS `modSession` WHERE `modSession`.`id` = ? 
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR @ /home/u173805/amnesiyaru/www/event/core/xpdo/om/xpdoobject.class.php : 263) Error preparing statement for query: SELECT `modSession`.`id` AS `modSession_id`, `modSession`.`access` AS `modSession_access`, `modSession`.`data` AS `modSession_data` FROM `session` AS `modSession` WHERE `modSession`.`id` = ?  - 
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections
+[2018-04-01 16:16:04] (ERROR in xPDOConnection::connect @ /home/u173805/amnesiyaru/www/event/core/xpdo/xpdo.class.php : 3116) SQLSTATE[HY000] [1040] Too many connections

@@ -1,0 +1,946 @@
+/** All **/
+input, button, textarea, a
+  transition: 0.2s all
+
+::-webkit-input-placeholder
+  color: #707070
+
+::-moz-placeholder
+  color: #707070
+
+input::-webkit-input-placeholder, textarea::-webkit-textarea-placeholder
+  opacity: 1
+  transition: opacity 0.3s ease
+
+input::-moz-placeholder, textarea::-moz-placeholder
+  opacity: 1
+  transition: opacity 0.3s ease
+
+input:-moz-placeholder, textarea:-moz-placeholder
+  opacity: 1
+  transition: opacity 0.3s ease
+
+input:-ms-input-placeholder, textarea:-ms-textarea-placeholder
+  opacity: 1
+  transition: opacity 0.3s ease
+
+input:focus::-webkit-input-placeholder, textarea:focus::-webkit-input-placeholder
+  opacity: 0
+  transition: opacity 0.3s ease
+
+input:focus::-moz-placeholder, textarea:focus::-moz-placeholder
+  opacity: 0
+  transition: opacity 0.3s ease
+
+input:focus:-moz-placeholder, textarea:focus:-moz-placeholder
+  opacity: 0
+  transition: opacity 0.3s ease
+
+input:focus:-ms-input-placeholder, textarea:focus:-ms-textarea-placeholder
+  opacity: 0
+  transition: opacity 0.3s ease
+
+.img-responsive
+  display: inline-block
+
+.question, .addon
+  display: none
+
+#question, #addon
+  padding: 10px 40px
+
+#question
+  font-size: 30px
+
+p
+  line-height: 1.3
+
+.form-error
+  border: 1px solid red !important
+
+.head-phone
+  text-align: center
+  font-size: 40px
+  color: #fff
+
+.success
+  display: none
+
+.fsize-30
+  font-size: 30px
+
+#success
+  text-align: center
+
+/** Main Form **/
+
+.main-form
+  margin-top: 100px
+  text-align: center
+
+  h2
+    font-family: 'Ubuntu Condensed', sans-serif
+    text-transform: uppercase
+    font-size: 40px
+
+  h3
+    font-family: 'Ubuntu Condensed', sans-serif
+    text-transform: uppercase
+    margin-top: 10px
+
+  .helper
+    margin-top: 40px
+
+  input, button
+    display: inline-block
+
+  input
+    width: 250px
+
+  button
+    vertical-align: top
+    padding: 8px 55px
+
+.form-header, .button-header
+  margin-top: 15px !important
+
+  input, button
+    border: 2px solid #fff
+
+  button
+    background: transparent
+    height: 42px
+
+  .btn-lg, .btn-group-lg > .btn
+    padding: 8px 16px
+
+.button-header
+  input
+    width: 200px
+
+  input, button
+    display: inline-block
+    vertical-align: top
+
+#readmore
+  padding-bottom: 50px
+
+.head-button
+  a
+    display: inline-block
+    background: transparent
+    border: 2px solid #fff
+    width: 200px
+
+/** Welcome **/
+
+.header-social
+  width: 130px
+  margin: auto
+
+  .social-item
+    height: 40px
+    width: 40px
+    cursor: pointer
+    display: inline-block
+    border-radius: 50%
+    border: 2px solid #fff
+
+  .vk
+    background: url(../img/social.png) no-repeat
+    background-position: -35px 0
+    background-size: 110px
+
+  .fl
+    background: url(../img/social.png) no-repeat
+    background-position: -72px 0
+    background-size: 110px
+
+  .in
+    background: url(../img/social.png) no-repeat
+    background-position: 0 0
+    background-size: 110px
+
+/** Advantages **/
+
+.advantages
+  background: #071f3b url(../img/section-bg.jpg) no-repeat
+  background-size: cover
+  text-align: center
+  padding: 100px 0 50px 0
+
+  h2
+    font-family: 'Ubuntu Condensed', sans-serif
+    text-transform: uppercase
+    margin-bottom: 40px
+    font-size: 40px
+
+  .advantages-item
+    display: inline-block
+    vertical-align: top
+    margin: 0 40px
+    padding: 10px 5px
+
+    img
+      width: 200px
+
+  // .other-item
+  // 	background: #f9f9f9
+
+  p
+    font-size: 22px
+    margin-top: 12px
+    color: #fff
+
+/** Quest **/
+
+.quest
+  margin-top: 100px
+  background: #071f3b url(../img/section-bg.jpg) no-repeat
+  background-size: cover
+  text-align: center
+  padding: 50px 0 30px 0
+
+  h2
+    font-family: 'Ubuntu Condensed', sans-serif
+    text-transform: uppercase
+    margin-bottom: 40px
+    font-size: 40px
+    color: #fff
+
+  .quest-item
+    margin: 30px 0
+    img
+      -webkit-transition: all 1s ease
+      -moz-transition: all 1s ease
+      -o-transition: all 1s ease
+      -ms-transition: all 1s ease
+      transition: all 1s ease
+      &:hover
+        -webkit-filter: brightness(0.5)
+
+  p
+    font-size: 20px
+    margin-top: 12px
+    color: #fff
+
+/** akciya */
+.akciya
+  background: #071f3b url(../img/section-bg.jpg) no-repeat
+  background-size: cover
+  text-align: center
+  padding: 50px 0 30px 0
+  h2
+    font-family: "Ubuntu Condensed", sans-serif
+    text-transform: uppercase
+    margin-bottom: 40px
+    font-size: 40px
+    color: #fff
+  .quest-item2
+    display: inline-block
+    vertical-align: top
+    margin: 0 50px
+    padding: 10px 5px
+    img
+      width: 200px
+  p
+    font-size: 20px
+    margin-top: 30px
+    color: #fff
+  .btn
+    margin-top: 30px
+
+/** Geo **/
+
+.geo
+  text-align: center
+  padding: 50px 0 30px 0
+
+  h2
+    font-family: 'Ubuntu Condensed', sans-serif
+    text-transform: uppercase
+    margin-bottom: 40px
+    font-size: 40px
+
+  .geo-item
+    display: inline-block
+    vertical-align: top
+    margin: 0 20px
+    padding: 10px 5px
+    min-width: 300px
+
+    img
+      width: 200px
+
+  .other-item
+    background: #f9f9f9
+
+  p
+    font-size: 20px
+    margin-top: 12px
+
+/** Scen **/
+
+.scen
+  text-align: center
+  margin-top: 100px
+  background: #071f3b url(../img/section-bg.jpg) no-repeat
+  background-size: cover
+  padding: 50px 0
+
+  h2
+    font-family: 'Ubuntu Condensed', sans-serif
+    text-transform: uppercase
+    margin-bottom: 40px
+    font-size: 40px
+    color: #fff
+
+  .scen-item
+    text-align: center
+    display: inline-block
+    margin: 0 40px 20px 40px
+
+    img
+      width: 200px
+
+  // .scen-item-wrapper
+  // 	position: absolute
+  // 	// top: 0
+  // 	bottom: 30px
+  // 	right: 0
+  // 	left: 0
+  // 	margin: auto
+  // 	height: 28px
+
+  // .adventure
+  // 	background: url(../img/adventure.png) no-repeat
+
+  // .detective
+  // 	background: url(../img/detective.png) no-repeat
+
+  // .comedy
+  // 	background: url(../img/comedy.png) no-repeat
+
+  // .mystic
+  // 	background: url(../img/mystic.png) no-repeat
+
+  // .horror
+  // 	background: url(../img/horror.png) no-repeat
+
+  // .fantastic
+  // 	background: url(../img/fantastic.png) no-repeat
+
+  // .children
+  // 	background: url(../img/children.png) no-repeat
+
+  p
+    font-size: 20px
+    text-transform: uppercase
+    margin-top: 12px
+    color: #fff
+
+  button
+    width: 320px
+
+/** Emo **/
+
+.emotion
+  text-align: center
+  padding: 50px 0 30px 0
+
+  h2
+    font-family: 'Ubuntu Condensed', sans-serif
+    text-transform: uppercase
+    margin-bottom: 40px
+    font-size: 40px
+
+  .emotion-item
+    img
+      width: 200px
+
+  p
+    font-size: 20px
+    margin-top: 12px
+
+/** Cols **/
+
+.cols
+  text-align: center
+  padding: 50px 0 30px 0
+  background: #f1f1f1
+
+  h2
+    font-family: 'Ubuntu Condensed', sans-serif
+    text-transform: uppercase
+    margin-bottom: 40px
+    font-size: 40px
+
+  .cols-item-wrapper
+    display: inline-block
+    margin: 30px 80px 0 80px
+
+  .cols-item
+    width: 200px
+    height: 200px
+    background-position: center
+    background-repeat: no-repeat
+    border-radius: 50%
+    display: inline-block
+    background-size: 320px
+
+  .about-one
+    background-image: url(../img/about-one.jpg)
+
+  .about-three
+    background-image: url(../img/about-300.jpg)
+
+  p
+    font-size: 22px
+    margin-top: 10px
+
+/** About **/
+.about
+  text-align: center
+  padding: 50px 0 30px 0
+  background: #071f3b url(../img/section-bg.jpg) no-repeat
+  background-size: cover
+
+  h2
+    font-family: 'Ubuntu Condensed', sans-serif
+    text-transform: uppercase
+    margin-bottom: 40px
+    font-size: 40px
+    color: #fff
+
+  p
+    font-size: 22px
+    margin-top: 12px
+    color: #fff
+
+  img
+    width: 200px
+
+/** About-tags **/
+
+.about-tags
+  text-align: center
+  padding: 50px 0 30px 0
+  margin-top: 100px
+
+  h2
+    font-family: 'Ubuntu Condensed', sans-serif
+    text-transform: uppercase
+    margin-bottom: 40px
+    font-size: 40px
+
+  .about-tag-item
+    display: inline-block
+    width: 200px
+    min-height: 200px
+    background: #ccc
+    border-radius: 50%
+
+  .event1
+    background: url(../img/event1.jpg) no-repeat
+    background-size: cover
+
+  .event2
+    background: url(../img/event2.jpg) no-repeat
+    background-size: cover
+
+  .event3
+    background: url(../img/event3.jpg) no-repeat
+    background-size: cover
+
+  p
+    font-size: 22px
+    margin-top: 10px
+
+  .small
+    font-size: 18px
+
+/** Instagram **/
+
+.instagram
+  text-align: center
+  padding: 50px 0 30px 0
+  margin-top: 100px
+  background: #254f7b
+  color: #fff
+
+  h2
+    font-family: 'Ubuntu Condensed', sans-serif
+    text-transform: uppercase
+    margin-bottom: 10px
+    font-size: 40px
+
+  .img-responsive
+    max-width: 400px
+
+  .image
+    text-align: center
+
+  .slog
+    text-align: left
+    padding-top: 30px
+
+  a
+    color: #fff
+    text-decoration: none
+
+    &:hover
+      color: #298cd8
+.about-us
+  text-align: center
+  padding: 50px 0 30px 0
+  color: #254f7b
+  background: #ffffff
+  h2
+    font-family: 'Ubuntu Condensed', sans-serif
+    text-transform: uppercase
+    margin-bottom: 10px
+    font-size: 40px
+
+  .img-responsive
+    max-width: 400px
+
+  .image
+    text-align: center
+
+  .slog
+    text-align: left
+    padding-top: 30px
+
+  a
+    color: #254f7b
+    text-decoration: none
+
+    &:hover
+      color: #298cd8
+/** FAQ **/
+
+.faq
+  text-align: center
+  padding: 100px 0 90px 0
+  margin-top: 100px
+  background: #f1f1f1
+
+  h2
+    font-family: 'Ubuntu Condensed', sans-serif
+    text-transform: uppercase
+    margin-bottom: 10px
+    font-size: 45px
+    margin-top: 0
+
+  p
+    font-size: 23px
+
+  .img-responsive
+    max-width: 400px
+    display: inline-block
+
+  .image
+    text-align: center
+
+  .slog
+    text-align: center
+
+/** Bonus **/
+
+.bonus
+  text-align: center
+  padding: 50px 0 30px 0
+  background: #071f3b url(../img/section-bg.jpg) no-repeat
+  background-size: cover
+  padding-top: 50px
+
+  h2
+    font-family: 'Ubuntu Condensed', sans-serif
+    text-transform: uppercase
+    margin-bottom: 40px
+    font-size: 40px
+    color: #fff
+
+  .bonus-wrapper
+    display: inline-block
+    vertical-align: top
+    margin: 0px 30px 15px 30px
+
+  .bonus-item
+    height: 200px
+    width: 200px
+    background: #ccc
+    margin: 0 50px
+    padding: 10px 5px
+    background-size: cover
+    border-radius: 50%
+    oveflow: hidden
+
+  .video
+    background: url(../img/scen1.jpg) no-repeat
+
+  .screenplay
+    background: url(../img/scen2.jpg) no-repeat
+
+  .earth
+    background: url(../img/scen3.jpg) no-repeat
+
+  .evening
+    background: url(../img/scen4.jpg) no-repeat
+
+  .area
+    background: url(../img/scen5.jpg) no-repeat
+
+  .bar
+    background: url(../img/scen6.jpg) no-repeat
+
+  p
+    font-size: 22px
+    color: #fff
+
+  .small
+    font-size: 16px
+
+.about-work
+  color: #fff
+  background: url(../img/bg-work-block.png) repeat
+  min-height: 600px
+  text-align: center
+  h2
+    background: url(../img/h2-bg.png) no-repeat
+    background-size: contain
+    font-size: 40px
+    height: 180px
+    text-align: center
+    line-height: 115px
+  img
+    margin: auto
+  p
+    line-height: 34px
+    font-size: 22px
+    text-align: center
+    margin-top: 80px
+    margin-bottom: 80px
+  .col-xs-12
+    padding-left: 1px
+    padding-right: 1px
+  span
+    position: absolute
+    top: 0px
+    font-size: 70px
+    margin-left: 55px
+  .two_space_sp
+    margin-left: 25px
+  .three_space_sp
+    margin-left: 100px
+
+.aqua-quest
+  padding-top: 50px
+  margin-bottom: 50px
+  min-height: 900px
+  width: 100%
+
+  h2
+    text-align: center
+    font-size: 40px
+    margin-bottom: 50px
+
+  .aqua_logo
+    background: url("../img/logo-aqua.png") no-repeat center
+    background-size: contain
+    margin-left: auto
+    margin-right: auto
+    margin-bottom: 50px
+    width: 300px
+    height: 300px
+
+  .about_aqua
+    padding-top: 50px
+    background: url(../img/aqua-bg.jpg) no-repeat center
+    background-size: cover
+    width: 100%
+    min-height: 850px
+    color: #fff
+
+    p,li
+      list-style: none
+      font-size: 20px
+
+  .aqua_ico_row
+    padding-top: 30px
+    p
+      font-size: 18px
+
+  .ico_form
+    font-size: 16px
+
+  .about_quest_ico
+    text-align: left
+    padding-top: 25px
+
+  .reserved_aqua
+    min-height: 300px
+    width: 100%
+
+    h2
+      text-align: center
+      font-size: 36px
+
+    .aqua_event
+      margin-top: 30px
+      margin-bottom: 30px
+
+      .aqua_date
+        font-size: 30px
+        text-align: left
+
+      .aqua_price_and_time
+        border: solid #325177 3px
+        border-radius: 4px
+        background-size: contain
+        text-align: center
+        font-size: 24px
+        color: #325177
+        -webkit-transition-duration: 0.2s
+        transition-duration: 0.2s
+
+      .aqua_price_and_time_hover
+        &:hover
+          color: #fff
+          background-color: #0c70ab
+          border: solid #0c70ab 3px
+
+      .aqua_price
+        font-size: 16px
+
+.form_active
+  display: block !important
+  &:hover
+    color: #325177
+
+.preform_qu
+  cursor: pointer
+
+.close_form
+  position: absolute
+  width: 30px
+  right: 10%
+  top: 5%
+  height: 30px
+  background: #dd3d36
+  color: #fff
+  font-size: 14px
+  line-height: 27px
+  border-radius: 15px
+  &:hover
+    background: red
+    cursor: pointer
+
+.aqua_res_form
+  display: none
+  margin-top: 20px
+  padding-top: 20px
+  border-top: solid 0.5px #cccccc
+  min-height: 400px
+  padding-bottom: 20px
+  background: #fff
+  top: 20%
+
+  input
+    width: 250px
+    margin-top: 20px
+    border-radius: 5px
+    border: solid 2px #1F4661
+    font-size: 20px
+
+  select
+    background: none
+    position: relative
+    z-index: 100
+    width: 284px
+    border: none
+
+  .select-button
+    background: url('../img/select.png') center center no-repeat
+    height: 38px
+    width: 34px
+    position: absolute
+    right: 0
+    top: 0
+    bottom: 0
+    z-index: 50
+
+  .peop_c
+    margin-top: 30px
+    display: block
+    float: left
+
+  .select-outer
+    margin-left: -6px
+    line-height: 38px
+    height: 45px
+    margin-top: 20px
+    border-radius: 5px
+    border: solid 2px #1F4661
+    width: 250px
+    overflow: hidden
+    display: inline-block
+    position: relative
+
+  input[type='text'],input[type='email']
+    padding: 5px
+
+  label
+    margin-top: 30px
+    display: block
+    float: left
+    width: 120px
+    text-align: left
+    font-size: 18px
+    font-weight: normal
+
+    span
+      color: red
+      font-weight: bold
+
+  input[type='submit']
+    margin-left: 120px
+    height: 40px
+    background: #fff
+    &:hover
+      color: #fff
+      border-color: #1F4661
+      background: #1F4661
+
+
+.modalDialog
+  position: fixed
+  font-family: Arial, Helvetica, sans-serif
+  top: 0
+  right: 0
+  bottom: 0
+  left: 0
+  background: rgba(0,0,0,0.8)
+  z-index: 99999
+  -webkit-transition: opacity 400ms ease-in
+  -moz-transition: opacity 400ms ease-in
+  transition: opacity 400ms ease-in
+  display: none
+  pointer-events: none
+
+.modalDialog:target
+  display: block
+  pointer-events: auto
+
+.modalDialog > div
+  width: 400px
+  position: relative
+  margin: 10% auto
+  padding: 5px 20px 13px 20px
+  border-radius: 10px
+  background: #fff
+  background: -moz-linear-gradient(#fff, #999)
+  background: -webkit-linear-gradient(#fff, #999)
+  background: -o-linear-gradient(#fff, #999)
+
+
+/** Media **/
+
+@media (max-width: 1200px)
+  .about-work
+    img
+      width: 150px
+    span
+      margin-left: 20px
+    .two_space_sp
+      margin-left: 20px
+    .three_space_sp
+      margin-left: 10px
+  .main-form
+    button
+      padding: 8px 35px
+
+    input
+      width: 210px
+
+@media (max-width: 1000px)
+  .about-work
+    h2
+      line-height: 70px
+    p
+      font-size: 28px
+      letter-spacing: 0px
+      span
+        display: none
+  .main-form
+    input
+      width: 150px
+
+@media (max-width: 800px)
+  .about-work
+    span
+      display: none
+    p
+      font-size: 38px
+
+@media (max-width: 740px)
+  .about-work
+    img
+      width: 250px
+  .main-form
+    input, button
+      width: 100%
+      margin-bottom: 10px
+
+@media (max-width: 700px)
+  .heading__sub
+    font-size: 18px
+  .about-work
+    h2
+      height: 140px
+      background: none
+  .head-phone
+    font-size: 25px
+
+@media (max-width: 500px)
+  .heading__sub
+    display: none
+
+  .head-button
+    display: none
+
+  .welcome_classic
+    padding-top: 80px
+
+.acz1
+  float: left
+  margin: auto
+  width: 30%
+
+#aczopis
+  width: 100%
+
+.acz2
+  margin: auto
+  margin-top: 290px
+
+#clients
+  margin: 0 0 50px 0
+  h2
+    font-family: "Ubuntu Condensed", sans-serif
+    text-transform: uppercase
+    margin-bottom: 40px
+    font-size: 40px
+    text-align: center
+  .client
+    margin: 15px 15px
+    height: 105px
+    text-align: center
+    img
+      margin: auto
+      width: 190px
+      height: 105px
+#photo
+  .item
+    img
+      width: 100%

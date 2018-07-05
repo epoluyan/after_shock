@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '90deca58542a74ede0997f687b410de4',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '5a0ecc51eec3e20242024e7c20f029be',
+  'native_key' => 'new_resource',
+  'object' => '{"text":"new_resource","parent":"site","action":"resource\\/create","description":"new_resource_desc","icon":"","menuindex":0,"params":"","handler":"","permissions":"new_document","namespace":"core"}',
+);

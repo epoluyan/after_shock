@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e8c5e4ea277ed347182db93511a699a1',
+  'package' => 'modx',
+  'class' => 'modSnippet',
+  'signature' => 'e8340aa7549299455ab6e3d6065bb45e',
+  'native_key' => 19,
+  'object' => '{"id":19,"source":0,"property_preprocess":0,"name":"getSwitchColumnCol","description":"","editor_type":0,"category":2,"cache_type":0,"snippet":"$scriptProperties = $_REQUEST;\\n$col = \'\';\\n\\/\\/ special actions, for example the showSelector - action\\n$tempParams = $modx->getOption(\'tempParams\', $scriptProperties, \'\');\\n\\nif (!empty($tempParams)) {\\n    $tempParams = $modx->fromJson($tempParams);\\n    $col = $modx->getOption(\'col\', $tempParams, \'\');\\n}\\n\\nreturn $col;","locked":0,"properties":"","moduleguid":"","static":0,"static_file":"","content":"$scriptProperties = $_REQUEST;\\n$col = \'\';\\n\\/\\/ special actions, for example the showSelector - action\\n$tempParams = $modx->getOption(\'tempParams\', $scriptProperties, \'\');\\n\\nif (!empty($tempParams)) {\\n    $tempParams = $modx->fromJson($tempParams);\\n    $col = $modx->getOption(\'col\', $tempParams, \'\');\\n}\\n\\nreturn $col;"}',
+);

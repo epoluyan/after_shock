@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '98ab2bd3276e3a8fb54ee649d26dda43',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '1d481356b77511ab5c41d0d704c5e5da',
+  'native_key' => 6,
+  'object' => '{"id":6,"source":1,"property_preprocess":0,"name":"advantages","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<section class=\\"advantages\\" id=\\"advantages\\">\\n\\t<div class=\\"container\\">\\n\\t\\t<div class=\\"row\\">\\n\\t\\t\\t<div class=\\"col-lg-12\\">\\n\\t\\t\\t    [[!getImageList? \\n\\t\\t\\t        &tvname=`advantages` \\n\\t\\t\\t        &tpl=`advantagesRow`\\n\\t\\t\\t    ]]\\n\\t\\t\\t\\t<div id=\\"readmoretop2\\"><\\/div>\\n\\t\\t\\t<\\/div>\\n\\t\\t<\\/div>\\n\\t<\\/div>\\n<\\/section>","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<section class=\\"advantages\\" id=\\"advantages\\">\\n\\t<div class=\\"container\\">\\n\\t\\t<div class=\\"row\\">\\n\\t\\t\\t<div class=\\"col-lg-12\\">\\n\\t\\t\\t    [[!getImageList? \\n\\t\\t\\t        &tvname=`advantages` \\n\\t\\t\\t        &tpl=`advantagesRow`\\n\\t\\t\\t    ]]\\n\\t\\t\\t\\t<div id=\\"readmoretop2\\"><\\/div>\\n\\t\\t\\t<\\/div>\\n\\t\\t<\\/div>\\n\\t<\\/div>\\n<\\/section>"}',
+);

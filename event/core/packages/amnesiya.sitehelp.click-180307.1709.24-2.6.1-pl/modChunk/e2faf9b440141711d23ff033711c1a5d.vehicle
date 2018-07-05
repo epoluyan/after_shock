@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '978356e63f44feaa51499f08422624c1',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => 'e2faf9b440141711d23ff033711c1a5d',
+  'native_key' => 8,
+  'object' => '{"id":8,"source":1,"property_preprocess":0,"name":"quest","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<section class=\\"quest\\" id=\\"quest\\">\\n\\t<h2>\\u0427\\u0442\\u043e \\u0442\\u0430\\u043a\\u043e\\u0435 \\u0432\\u044b\\u0435\\u0437\\u0434\\u043d\\u044b\\u0435 \\u043a\\u0432\\u0435\\u0441\\u0442\\u044b<br>\\n\\t\\u0438 \\u043a\\u0430\\u043a\\u0438\\u0435 \\u0431\\u044b\\u0432\\u0430\\u044e\\u0442 \\u043a\\u0432\\u0435\\u0441\\u0442\\u044b?<\\/h2>\\n\\t<div class=\\"container\\">\\n\\t\\t<div class=\\"row\\">\\n\\t\\t\\t<div class=\\"col-sm-10 col-sm-offset-1\\">\\n\\t\\t\\t    [[!getImageList? \\n\\t\\t\\t        &tvname=`quest` \\n\\t\\t\\t        &tpl=`questRow`\\n\\t\\t\\t    ]]\\n\\t\\t\\t<\\/div>\\n\\t\\t<\\/div>\\n\\t<\\/div>\\n<\\/section>","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<section class=\\"quest\\" id=\\"quest\\">\\n\\t<h2>\\u0427\\u0442\\u043e \\u0442\\u0430\\u043a\\u043e\\u0435 \\u0432\\u044b\\u0435\\u0437\\u0434\\u043d\\u044b\\u0435 \\u043a\\u0432\\u0435\\u0441\\u0442\\u044b<br>\\n\\t\\u0438 \\u043a\\u0430\\u043a\\u0438\\u0435 \\u0431\\u044b\\u0432\\u0430\\u044e\\u0442 \\u043a\\u0432\\u0435\\u0441\\u0442\\u044b?<\\/h2>\\n\\t<div class=\\"container\\">\\n\\t\\t<div class=\\"row\\">\\n\\t\\t\\t<div class=\\"col-sm-10 col-sm-offset-1\\">\\n\\t\\t\\t    [[!getImageList? \\n\\t\\t\\t        &tvname=`quest` \\n\\t\\t\\t        &tpl=`questRow`\\n\\t\\t\\t    ]]\\n\\t\\t\\t<\\/div>\\n\\t\\t<\\/div>\\n\\t<\\/div>\\n<\\/section>"}',
+);

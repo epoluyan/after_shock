@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b7cb93b70835004d10cb84fb51d1e6c4',
+  'package' => 'modx',
+  'class' => 'modChunk',
+  'signature' => '051e19f8d8368b39c4cb6392b3d58a15',
+  'native_key' => 12,
+  'object' => '{"id":12,"source":1,"property_preprocess":0,"name":"questRow","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<div class=\\"col-sm-4 quest-item\\">\\n\\t<a class=\\"inline\\" href=\\"#quest-[[+idx]]\\">\\n\\t    <img alt=\\"[[+title]]\\" class=\\"col-xs-10 col-xs-offset-1\\" src=\\"[[+image]]\\">\\n\\t\\t<p>[[+title]]<\\/p>\\n\\t<\\/a>\\n\\t<div class=\\"hidden\\">\\n\\t\\t<div class=\\"fsize-30\\" id=\\"quest-[[+idx]]\\">\\n\\t\\t\\t[[+text]]\\n\\t\\t<\\/div>\\n\\t<\\/div>\\n<\\/div>","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<div class=\\"col-sm-4 quest-item\\">\\n\\t<a class=\\"inline\\" href=\\"#quest-[[+idx]]\\">\\n\\t    <img alt=\\"[[+title]]\\" class=\\"col-xs-10 col-xs-offset-1\\" src=\\"[[+image]]\\">\\n\\t\\t<p>[[+title]]<\\/p>\\n\\t<\\/a>\\n\\t<div class=\\"hidden\\">\\n\\t\\t<div class=\\"fsize-30\\" id=\\"quest-[[+idx]]\\">\\n\\t\\t\\t[[+text]]\\n\\t\\t<\\/div>\\n\\t<\\/div>\\n<\\/div>"}',
+);

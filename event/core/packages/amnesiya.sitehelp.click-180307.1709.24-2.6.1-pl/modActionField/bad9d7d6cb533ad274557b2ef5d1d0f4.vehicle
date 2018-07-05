@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '928fb1fdd3c7f06dca575a59d600d083',
+  'package' => 'modx',
+  'class' => 'modActionField',
+  'signature' => 'bad9d7d6cb533ad274557b2ef5d1d0f4',
+  'native_key' => 29,
+  'object' => '{"id":29,"action":"resource\\/update","name":"richtext","type":"field","tab":"modx-page-settings-right-box-left","form":"modx-panel-resource","other":"","rank":2}',
+);

@@ -1,0 +1,115 @@
+@font-face
+  font-family: Century Gothic
+  src: url("../fonts/ofont.ru_CenturyGothic.ttf")
+@media (min-width: 200px)
+  .eq_block
+    font-family: "Century Gothic"
+    width: 100%
+    height: 800px
+    background: #000
+
+    .eq_left_block
+      background: white url("../img/eq_bg_1.jpg") no-repeat right
+      background-size: cover
+      width: 100%
+      height: 800px
+      color: white
+
+      .eq_special_col_left
+        width: 100%
+        padding-left: 15%
+
+      h2
+        font-weight: bold
+        font-size: 5em
+        margin: 0
+        text-align: center
+        height: 710px
+        padding-top: 150px
+
+      p
+        margin: 0
+        font-size: 3em
+        text-align: center
+        padding-left: 20%
+
+    .eq_right_block
+      background: url("../img/textur-Shou-Sugi-Ban-06_1.jpg") repeat
+      width: 100%
+      height: 800px
+      color: white
+      position: relative
+      z-index: 1
+
+      .eq_special_col
+        width: 100%
+
+      .eq_right_block_overlay
+        background: black
+        opacity: 0.4
+        width: 100%
+        height: 100%
+        position: absolute
+        z-index: 2
+
+      h3
+        padding-top: 50px
+        font-size: 2em
+        margin: 0
+        text-align: center
+        position: relative
+        z-index: 3
+
+      p
+        padding: 15px 0px 0px 20px
+        position: relative
+        margin: 0
+        font-size: 12px
+        z-index: 3
+
+      a
+        line-height: 30px
+        position: relative
+        z-index: 3
+        display: block
+        width: 300px
+        height: 30px
+        background: red
+        color: white
+        border: none
+        text-align: center
+        margin: auto
+        margin-top: 30px
+
+@media (min-width: 1200px)
+  .eq_block
+    .eq_left_block
+      h2,p
+        text-align: left
+    .eq_right_block
+      .eq_special_col
+        width: 440px
+
+@media (min-width: 1400px)
+  .eq_block
+    .eq_left_block
+      h2
+        font-size: 6em
+      .eq_special_col_left
+        padding-left: 30%
+    .eq_right_block
+      p
+        font-size: 13px
+
+
+
+@media (min-width: 1700px)
+  .eq_block
+    .eq_left_block
+      h2
+        font-size: 6em
+      .eq_special_col_left
+        padding-left: 40%
+    .eq_right_block
+      p
+        font-size: 13px

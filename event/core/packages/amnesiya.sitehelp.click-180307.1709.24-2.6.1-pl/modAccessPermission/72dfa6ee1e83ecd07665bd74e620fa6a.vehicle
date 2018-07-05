@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ab3be1c122135925787897fa2d2fa8e8',
+  'package' => 'modx',
+  'class' => 'modAccessPermission',
+  'signature' => '72dfa6ee1e83ecd07665bd74e620fa6a',
+  'native_key' => 66,
+  'object' => '{"id":66,"template":1,"name":"lexicons","description":"perm.lexicons_desc","value":1}',
+);
