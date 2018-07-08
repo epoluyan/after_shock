@@ -138,21 +138,11 @@
 
                 <li><a href="#quest">Квесты</a></li>
 
-                <li><a href="#easy-quest">Изи</a></li>
-
-                <li><a href="#aqua">Аква-квест</a></li>
-
                 <li><a href="#photo">Фото</a></li>
 
                 <li><a href="#geo">Где провести?</a></li>
 
-                <li><a href="#scen">Сценарии</a></li>
-
                 <li><a href="#clients">Клиенты</a></li>
-
-                <li><a href="#about">О нас</a></li>
-
-                <li><a href="#bonus">Дополнительно</a></li>
 
             </ul>
 
